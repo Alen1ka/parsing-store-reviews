@@ -1,0 +1,976 @@
+СберМегаМаркет
+
+
+https://chrome.google.com/webstore/search/СберМегаМаркет?hl=ru
+
+
+
+<!DOCTYPE html>
+<html lang="ru"><head><title>Интернет-магазин Chrome</title><meta charset="utf-8"/><meta content="IE=edge" http-equiv="x-ua-compatible"/><meta content="6MQ3V3iNTp9Gaek0rQdI1BT1b5HKKsN8_WzyFbu1uWU" name="google-site-verification"> <meta content="Широкий выбор приложений, игр, расширений и тем для Google Chrome." name="Description"/><meta content="origin" name="referrer"/><meta content="Интернет-магазин Chrome" property="og:title"/> <meta content="Широкий выбор приложений, игр, расширений и тем для Google Chrome." property="og:description"/><meta content="website" property="og:type"/><meta content="https://chrome.google.com/webstore?hl=ru" property="og:url"/><meta content="https://ssl.gstatic.com/chrome/webstore/images/chrome_web_store_1200x630.png" property="og:image"/><meta content="width=device-width, initial-scale=1.0" name="viewport"/><link href="https://www.google.com/images/icons/product/chrome_web_store-32.png" rel="icon" type="image/ico"/><link href="https://ssl.gstatic.com/chrome/webstore/images/icon_48px.png" rel="icon" sizes="48x48"/><link href="https://ssl.gstatic.com/chrome/webstore/images/icon_96px.png" rel="icon" sizes="96x96"/><link href="https://ssl.gstatic.com/chrome/webstore/images/icon_144px.png" rel="icon" sizes="144x144"/><link href="/_/scs/cws-static/_/ss/k=cws.main.5MW15RrHQHs.L.W.O/d=0/rs=AAxzQIW9LLPsyewGrwwMBA8ybVjzJDU4KA" nonce="AlVhgUP5urSsuf3Ez0Qpaw" rel="stylesheet"/><link href="https://www.gstatic.com/images/icons/material/anim/mspin/mspin_googcolor_medium.css" nonce="AlVhgUP5urSsuf3Ez0Qpaw" rel="stylesheet"/><style nonce="AlVhgUP5urSsuf3Ez0Qpaw">@font-face{font-family:'Open Sans';font-style:normal;font-weight:300;src:url(//fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OVuhs.ttf)format('truetype');}@font-face{font-family:'Open Sans';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFUZ0e.ttf)format('truetype');}@font-face{font-family:'Google Sans';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Kwps.ttf)format('truetype');}@font-face{font-family:'Google Sans';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94Yt3CwM.ttf)format('truetype');}@font-face{font-family:'Google Sans Display';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesansdisplay/v13/ea8FacM9Wef3EJPWRrHjgE4B6CnlZxHVDvr9pA.ttf)format('truetype');}@font-face{font-family:'Material Icons Extended';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/materialiconsextended/v149/kJEjBvgX7BgnkSrUwT8UnLVc38YydejYY-oE_LvM.ttf)format('truetype');}.material-icons-extended{font-family:'Material Icons Extended';font-weight:normal;font-style:normal;font-size:24px;line-height:1;letter-spacing:normal;text-transform:none;display:inline-block;white-space:nowrap;word-wrap:normal;direction:ltr;}</style><script id="cws-session-data" nonce="pDh2xjhGLKtcqxTfODTypg" type="application/json">["initialsessiondata",["codenamepair","ru","русский"],["codenamepair","RU","Россия"],"ru",[["codenamepairlist",[["codenamepair","ar","\u202b\u202bالعربية\u202c"],["codenamepair","bg","\u202aбългарски\u202c"],["codenamepair","bn","\u202aবাংলা\u202c"],["codenamepair","ca","\u202acatalà\u202c"],["codenamepair","cs","\u202ačeština\u202c"],["codenamepair","da","\u202adansk\u202c"],["codenamepair","de","\u202aDeutsch\u202c"],["codenamepair","en","\u202aEnglish\u202c"],["codenamepair","en-GB","\u202aEnglish (UK)\u202c"],["codenamepair","en-US","\u202aEnglish (United States)\u202c"],["codenamepair","es","\u202aespañol\u202c"],["codenamepair","es-419","\u202aespañol (Latinoamérica)\u202c"],["codenamepair","et","\u202aeesti\u202c"]]],["codenamepairlist",[["codenamepair","el","\u202aΕλληνικά\u202c"],["codenamepair","fa","\u202bفارسی\u200e\u202c"],["codenamepair","fil","\u202aFilipino\u202c"],["codenamepair","fi","\u202asuomi\u202c"],["codenamepair","fr","\u202aFrançais\u202c"],["codenamepair","gu","\u202aગુજરાતી\u202c"],["codenamepair","iw","\u202bעברית\u202c"],["codenamepair","hi","\u202aहिन्दी\u202c"],["codenamepair","hr","\u202ahrvatski\u202c"],["codenamepair","hu","\u202amagyar\u202c"],["codenamepair","id","\u202aBahasa Indonesia\u202c"],["codenamepair","it","\u202aitaliano\u202c"],["codenamepair","ja","\u202a日本語\u202c"]]],["codenamepairlist",[["codenamepair","ko","\u202a한국어\u202c"],["codenamepair","lt","\u202alietuvių\u202c"],["codenamepair","lv","\u202alatviešu\u202c"],["codenamepair","ms","\u202aBahasa Melayu\u202c"],["codenamepair","ml","\u202aമലയാളം\u202c"],["codenamepair","mr","\u202aमराठी\u202c"],["codenamepair","nl","\u202aNederlands\u202c"],["codenamepair","no","\u202aNorsk\u202c"],["codenamepair","pl","\u202apolski\u202c"],["codenamepair","pt-BR","\u202aportuguês (Brasil)\u202c"],["codenamepair","pt-PT","\u202aportuguês (Portugal)\u202c"],["codenamepair","ro","\u202aromână\u202c"],["codenamepair","ru","\u202aрусский\u202c"]]],["codenamepairlist",[["codenamepair","sk","\u202aslovenský\u202c"],["codenamepair","sl","\u202aslovenščina\u202c"],["codenamepair","sr","\u202aСрпски\u202c"],["codenamepair","sv","\u202asvenska\u202c"],["codenamepair","ta","\u202aதமிழ்\u202c"],["codenamepair","te","\u202aతెలుగు\u202c"],["codenamepair","th","\u202aไทย\u202c"],["codenamepair","tr","\u202aTürkçe\u202c"],["codenamepair","uk","\u202aукраїнська\u202c"],["codenamepair","vi","\u202aTiếng Việt\u202c"],["codenamepair","zh-CN","\u202a中文 (简体)\u202c"],["codenamepair","zh-TW","\u202a中文 (繁體)\u202c"]]]],[["codenamepairlist",[["codenamepair","AU","Австралия"],["codenamepair","AT","Австрия"],["codenamepair","AR","Аргентина"],["codenamepair","BE","Бельгия"],["codenamepair","BG","Болгария"],["codenamepair","BR","Бразилия"],["codenamepair","GB","Великобритания"],["codenamepair","HU","Венгрия"],["codenamepair","VE","Венесуэла"],["codenamepair","VN","Вьетнам"],["codenamepair","DE","Германия"]]],["codenamepairlist",[["codenamepair","HK","Гонконг"],["codenamepair","GR","Греция"],["codenamepair","DK","Дания"],["codenamepair","EG","Египет"],["codenamepair","IL","Израиль"],["codenamepair","IN","Индия"],["codenamepair","ID","Индонезия"],["codenamepair","IE","Ирландия"],["codenamepair","ES","Испания"],["codenamepair","IT","Италия"],["codenamepair","CA","Канада"]]],["codenamepairlist",[["codenamepair","CN","Китай"],["codenamepair","CO","Колумбия"],["codenamepair","CU","Куба"],["codenamepair","LT","Литва"],["codenamepair","MY","Малайзия"],["codenamepair","MA","Марокко"],["codenamepair","MX","Мексика"],["codenamepair","NL","Нидерланды"],["codenamepair","NZ","Новая Зеландия"],["codenamepair","NO","Норвегия"],["codenamepair","AE","ОАЭ"]]],["codenamepairlist",[["codenamepair","PA","Панама"],["codenamepair","PE","Перу"],["codenamepair","PL","Польша"],["codenamepair","PT","Португалия"],["codenamepair","RU","Россия"],["codenamepair","RO","Румыния"],["codenamepair","SA","Саудовская Аравия"],["codenamepair","SG","Сингапур"],["codenamepair","SK","Словакия"],["codenamepair","US","США"],["codenamepair","TH","Таиланд"]]],["codenamepairlist",[["codenamepair","TW","Тайвань"],["codenamepair","TR","Турция"],["codenamepair","UA","Украина"],["codenamepair","PH","Филиппины"],["codenamepair","FI","Финляндия"],["codenamepair","FR","Франция"],["codenamepair","CZ","Чехия"],["codenamepair","CL","Чили"],["codenamepair","CH","Швейцария"],["codenamepair","SE","Швеция"],["codenamepair","EC","Эквадор"]]],["codenamepairlist",[["codenamepair","EE","Эстония"],["codenamepair","ZA","ЮАР"],["codenamepair","JP","Япония"],["codenamepair","001","Во всем мире"]]]],0,0,null,null,null,[["aui","obh"],["arh","on"],["aph"],["cpa","on"],["ctm","on"],["cbe"],["dcp","on"],["dpf","on"],["dda","fade"],["atf","on"],["eas"],["ebi"],["eft","on"],["epa"],["rtr","on"],["erw","on"],["rlb","on"],["esl"],["esi","on"],["eua"],["evt"],["fcf","on"],["hls"],["hcn","on"],["hrb","on"],["igb"],["rma"],["ria"],["irt"],["log"],["shr","lnc"],["gtc"],["pot","on"],["pet","on"],["rer"],["ac","on"],["scm","on"],["drd","on"],["svp","on"],["hot","2"],["qso","on"],["c3d"],["epb"],["der"],["dsq"],["bps","medium"],["ncr","on"],["vwb","on"],["rim","on"],["mac","on"],["pii","on"],["wtd"],["hap"],["nma","on"],["lnr"],["uid","on"],["ess"],["utb","on"],["dpb","on"],["lrc","on"],["bgi","on"],["hns","on"],["dbp","on"],["bbp","on"],["elj","on"],["bem","on"],["hsf","on"],["loi","on"],["hib","on"],["hbh","on"],["hlb"],["spt","on"],["dac","on"],["aid","on"],["ebo","on"],["hqb","hqo"],["eap","on"],["bga","on"],["uci","on"],["hfi","on"],["hpc","on"],["hsp","on"],["htf","on"],["ibg","on"],["dtp"],["rai","on"],["ifm"],["ndd","on"],["ntd","on"],["dha","on"],["crw","on"],["oiu"]],"https://accounts.google.com/ServiceLogin","https://www.google.com/accounts/Logout",null,0,null,0,"https://accounts.google.com/AddSession","https://accounts.google.com/AccountChooser","20210820",[],[],null,"https://accounts.google.com/SignOutOptions",0,0,[],"/webstore/developer/terms?hl\u003dru",null,null,0,null,null,0,0,0]</script><script id="cws-model-data" nonce="pDh2xjhGLKtcqxTfODTypg" type="application/json">["initialmodeldata",[null,null,[[["extensions","Расширения","extensions",null,null,1,[[["featured","Рекомендованные",10,null,0],["recommended_extensions","Рекомендовано для вас",1,"recommended_extensions",1],["mcol#get_started","Extensions Starter Kit",1,"collection/get_started",null,null,null,"Do more with your browser"],["mcol#weather_extensions","Погода за окном",1,"collection/weather_extensions",null,null,null,"Прогноз на будущее"],["mcol#business_owner","Бизнес",1,null,null,null,null,"Отслеживайте, измеряйте, планируйте"],["mcol#travel_smarter","Путешествуйте с умом",1,"collection/travel_smarter",null,null,null,"Расширения, которые помогут спланировать поездку."],["mcol#onlineeducation","Дистанционное обучение",1,"collection/onlineeducation",null,null,null,"Инструменты для учебы."],["mcol#notepads_lists","Чтобы не забыть",1,"collection/notepads_lists",null,null,null,"Блокноты и списки дел"],["mcol#dark_mode","Затемняйте браузер",1,"collection/dark_mode",null,null,null,"Ночной режим, шейдеры экрана и не только."],["mcol#editors_picks_extensions","Выбор редакции",1,"collection/editors_picks_extensions",null,null,null,"Подборка от редакторов Chrome."],["mcol#online_tools","SEO и социальные сети",1,"collection/online_tools",null,null,null,"Полезные инструменты для продвижения в Интернете"],["mcol#gmail_extensions","Совместимые с Gmail",1,"collection/gmail_extensions",null,null,null,"Увеличьте отдачу от электронной почты."],["mcol#cyber_monday","Экономные покупки",1,"collection/cyber_monday",null,null,null,"Промокоды, трекеры цен и другие расширения."],["mcol#language_learning","Изучение иностранных языков",1,"collection/language_learning",null,null,null,"Получайте знания во время просмотра сайтов."],["mcol#chrome-dev-tools-extensions","Инструменты разработчика Chrome",1,"collection/chrome-dev-tools-extensions",null,null,null,""],["mcol#tabs_control","Организация вкладок",1,"collection/tabs_control",null,null,null,"Пришло время навести порядок в браузере"],["mcol#writing_essentials","Пишем правильно",1,"collection/writing_essentials",null,null,null,"Больше никаких ошибок и опечаток"],["mcol#chrome_toolkit","Инструменты для Chrome",1,"collection/chrome_toolkit",null,null,null,"Калькуляторы, часы, календари и не только"],["mcol#for_creatives","Всё для творчества",1,"collection/for_creatives",null,null,null,"Инструменты для графики и дизайна"],["mcol#annotate_the_web","Пометки на веб-страницах",1,"collection/annotate_the_web",null,null,null,"Не забудьте ничего важного"],["mcol#screen_capture","На вашем экране",1,"collection/screen_capture",null,null,null,"Делайте скриншоты и снимайте видео. Это просто!"],["mcol#games_extension","Для настоящих геймеров",1,"collection/games_extension",null,null,null,"Расширения для популярных игр"],["mcol#change_the_way_you_work","Для работы",1,"collection/change_the_way_you_work",null,null,null,"Организация повседневных задач"],["mcol#relax_extensions","Спокойствие, только спокойствие",1,"collection/relax_extensions",null,null,null,"Расширения, которые помогут снять стресс"],["mcol#video_extensions","Enhance Your Playback",1,"collection/video_extensions",null,null,null,"Volume boosters, video controls, and more"],["mcol#2021_favorites","Лучшее – 2021",1,"collection/2021_favorites",null,null,null,"Лучшие расширения этого года"],["mcol#pdf_extensions","Работайте с PDF эффективнее",1,"collection/pdf_extensions",null,null,null,"Подчеркивайте текст, добавляйте комментарии, редактируйте вместе"],["mcol#new_extensions","Новинки",1,null,null,null,null,""],["mcol#job_hunting","Поиск работы",1,"collection/job_hunting",null,null,null,"Для тех, кто нацелен на успех"],["mcol#save_it_for_later","Личный архив",1,"collection/save_it_for_later",null,null,null,"Сохраняйте важные статьи, блоги и не только"],["mcol#wfh","Работа из дома",1,"collection/wfh",null,null,null,"Расширения, которые помогут наладить распорядок дня."],["mcol#everyones_favorites","Выбор пользователей",1,"collection/everyones_favorites",null,null,null,"Популярные расширения"],["mcol#wordle","Wordle Mania",1,"collection/wordle",null,null,null,"Customize, get hints \u0026 more"],["mcol#3p_accessibility_extensions","Расширения со специальными возможностями",1,"collection/3p_accessibility_extensions",null,null,null,"Сделайте Chrome ещё удобнее"],["mcol#kitchen_companions","Помощники на кухне",1,"collection/kitchen_companions",null,null,null,"Готовьте кулинарные шедевры"],["mcol#personalize_chrome","Ваш персональный Chrome",1,"collection/personalize_chrome",null,null,null,"Настройте браузер так, как удобно именно вам"],["mcol#customize_your_new_tab_page","Ваша страница быстрого доступа",1,"collection/customize_your_new_tab_page",null,null,null,"Добавьте фото, прогноз погоды, списки дел и многое другое"],["infiniteWall","Все рекомендации"]]]],null,[[["recommended_extensions","Рекомендовано","recommended_extensions",null,1],null,[]],[["ext/10-blogging","Блоги","10-blogging","ext",null,null,[[["featured","Рекомендованные",10,null,0],["mcol#top_picks_blogging","Самое лучшее",1,"collection/top_picks_blogging",null,null,null,"Для блогеров"],["infiniteWall","Все рекомендации",null,null,0]]]],null,[]],[["ext/11-web-development","Инструменты разработчика","11-web-development","ext",null,null,[[["featured","Рекомендованные",10,null,0],["mcol#top_picks_web-development","Самое лучшее",1,"collection/top_picks_web-development",null,null,null,"Для разработчиков"],["infiniteWall","Все рекомендации",null,null,0]]]],null,[]],[["ext/6-news","Новости и погода","6-news","ext",null,null,[[["featured","Рекомендованные",10,null,0],["mcol#top_picks_news","Самое лучшее",1,"collection/top_picks_news",null,null,null,"С погодой и новостями"],["infiniteWall","Все рекомендации",null,null,0]]]],null,[]],[["ext/12-shopping","Покупки","12-shopping","ext",null,null,[[["featured","Рекомендованные",10,null,0],["mcol#top_picks_shopping","Самое лучшее",1,"collection/top_picks_shopping",null,null,null,"Для шопинга"],["infiniteWall","Все рекомендации",null,null,0]]]],null,[]],[["ext/7-productivity","Работа","7-productivity","ext",null,null,[[["featured","Рекомендованные",10,null,0],["mcol#top_picks_productivity","Самое лучшее",1,"collection/top_picks_productivity",null,null,null,"Для продуктивной работы"],["infiniteWall","Все рекомендации",null,null,0]]]],null,[]],[["ext/14-fun","Развлечения","14-fun","ext",null,null,[[["featured","Рекомендованные",10,null,0],["mcol#top_picks_fun","Самое лучшее",1,"collection/top_picks_fun",null,null,null,"Для отдыха"],["infiniteWall","Все рекомендации",null,null,0]]]],null,[]],[["ext/1-communication","Социальные сети и общение","1-communication","ext",null,null,[[["featured","Рекомендованные",10,null,0],["mcol#top_picks_communication","Самое лучшее",1,"collection/top_picks_communication",null,null,null,"Для соцсетей и общения"],["infiniteWall","Все рекомендации",null,null,0]]]],null,[]],[["ext/22-accessibility","Специальные возможности","22-accessibility","ext",null,null,[[["featured","Рекомендованные",10,null,0],["mcol#3p_accessibility_extensions","Расширения со специальными возможностями",1,"collection/3p_accessibility_extensions",null,null,null,"Сделайте Chrome ещё удобнее"],["infiniteWall","Все рекомендации",null,null,0]]]],null,[]],[["ext/13-sports","Спорт","13-sports","ext",null,null,[[["featured","Рекомендованные",10,null,0],["mcol#top_picks_sports","Самое лучшее",1,"collection/top_picks_sports",null,null,null,"Для спорта"],["infiniteWall","Все рекомендации",null,null,0]]]],null,[]],[["ext/38-search-tools","Средства поиска","38-search-tools","ext",null,null,[[["featured","Рекомендованные",10,null,0],["mcol#top_picks_search-tools","Самое лучшее",1,"collection/top_picks_search-tools",null,null,null,"Для поиска"],["infiniteWall","Все рекомендации",null,null,0]]]],null,[]],[["ext/28-photos","Фото","28-photos","ext",null,null,[[["featured","Рекомендованные",10,null,0],["mcol#top_picks_photos","Самое лучшее",1,"collection/top_picks_photos",null,null,null,"Для работы с фотографиями"],["infiniteWall","Все рекомендации",null,null,0]]]],null,[]],[["collection/www_youtube_com_my_videos","www.youtube.com/my_videos","www_youtube_com_my_videos","collection",1,null,null,null,1],null,[]],[["collection/accessibility","Специальные возможности Chrome","accessibility","collection",1,null,null,null,1],null,[]],[["collection/change_the_way_you_work","Для работы","change_the_way_you_work","collection",1,null,null,null,1],null,[]],[["collection/top_picks_sports","Самое лучшее","top_picks_sports","collection",1,null,null,null,1],null,[]],[["collection/top_grammar","top grammar","top_grammar","collection",1,null,null,null,1],null,[]],[["collection/everyday_extensions","На каждый день","everyday_extensions","collection",1,null,null,null,1],null,[]],[["collection/top_screen_capture","Top Screen Capture","top_screen_capture","collection",1,null,null,null,1],null,[]],[["collection/t_co","T.co","t_co","collection",1,null,null,null,1],null,[]],[["collection/redux_lovers","Redux lovers","redux_lovers","collection",1,null,null,null,1],null,[]],[["collection/www_cnn_com","www.cnn.com","www_cnn_com","collection",1,null,null,null,1],null,[]],[["collection/www_wikipedia_org","www.wikipedia.org","www_wikipedia_org","collection",1,null,null,null,1],null,[]],[["collection/www_office_com","www.office.com","www_office_com","collection",1,null,null,null,1],null,[]],[["collection/by_chrome_extensions","Разработано в Google","by_chrome_extensions","collection",1,null,null,null,1],null,[]],[["collection/job_hunting","Поиск работы","job_hunting","collection",1,null,null,null,1],null,[]],[["collection/91500-travel_buffs","91500-Travel_Buffs","91500-travel_buffs","collection",1,null,null,null,1],null,[]],[["collection/chrome_toolkit","Инструменты для Chrome","chrome_toolkit","collection",1,null,null,null,1],null,[]],[["collection/news_weather","Будьте в курсе","news_weather","collection",1,null,null,null,1],null,[]],[["collection/writing_essentials","Пишем правильно","writing_essentials","collection",1,null,null,null,1],null,[]],[["collection/rss_lovers","Rss lovers","rss_lovers","collection",1,null,null,null,1],null,[]],[["collection/celebrating_love","Любовь повсюду","celebrating_love","collection",1,null,null,null,1],null,[]],[["collection/top_picks_search-tools","Самое лучшее","top_picks_search-tools","collection",1,null,null,null,1],null,[]],[["collection/91900-music_lovers","91900-music_lovers","91900-music_lovers","collection",1,null,null,null,1],null,[]],[["collection/get_organized","Планирование","get_organized","collection",1,null,null,null,1],null,[]],[["collection/www_amazon_com","www.amazon.com","www_amazon_com","collection",1,null,null,null,1],null,[]],[["collection/workfromhome","Остаемся дома","workfromhome","collection",1,null,null,null,1],null,[]],[["collection/fashion","Модникам","fashion","collection",1,null,null,null,1],null,[]],[["collection/news_extensions","Персональные новости","news_extensions","collection",1,null,null,null,1],null,[]],[["collection/personalize_chrome","Ваш персональный Chrome","personalize_chrome","collection",1,null,null,null,1],null,[]],[["collection/chrome-dev-tools-extensions","Инструменты разработчика Chrome","chrome-dev-tools-extensions","collection",1,null,null,null,1],null,[]],[["collection/gmail_extensions","Совместимые с Gmail","gmail_extensions","collection",1,null,null,null,1],null,[]],[["collection/top_picks_photos","Самое лучшее","top_picks_photos","collection",1,null,null,null,1],null,[]],[["collection/468-coders-web_developer","468-Coders-Web_Developers","468-coders-web_developer","collection",1,null,null,null,1],null,[]],[["collection/todo_list","Todo list","todo_list","collection",1,null,null,null,1],null,[]],[["collection/2021_favorites","Лучшее – 2021","2021_favorites","collection",1,null,null,null,1],null,[]],[["collection/customize_your_new_tab_page","Ваша страница быстрого доступа","customize_your_new_tab_page","collection",1,null,null,null,1],null,[]],[["collection/chat_with_chrome","Общение через Chrome","chat_with_chrome","collection",1,null,null,null,1],null,[]],[["collection/calendars_planners","Планируйте свое время","calendars_planners","collection",1,null,null,null,1],null,[]],[["collection/annotate_the_web","Пометки на веб-страницах","annotate_the_web","collection",1,null,null,null,1],null,[]],[["collection/www_ebay_com","www.ebay.com","www_ebay_com","collection",1,null,null,null,1],null,[]],[["collection/onlineeducation","Дистанционное обучение","onlineeducation","collection",1,null,null,null,1],null,[]],[["collection/www_washingtonpost_com","www.washingtonpost.com","www_washingtonpost_com","collection",1,null,null,null,1],null,[]],[["collection/notepads_lists","Чтобы не забыть","notepads_lists","collection",1,null,null,null,1],null,[]],[["collection/tabs_control","Организация вкладок","tabs_control","collection",1,null,null,null,1],null,[]],[["collection/sports_extensions","Спортивные новости","sports_extensions","collection",1,null,null,null,1],null,[]],[["collection/games_extension","Для настоящих геймеров","games_extension","collection",1,null,null,null,1],null,[]],[["collection/www_facebook_com","www.facebook.com","www_facebook_com","collection",1,null,null,null,1],null,[]],[["collection/www_linkedin_com","www.linkedin.com","www_linkedin_com","collection",1,null,null,null,1],null,[]],[["collection/www_msn_com","www.msn.com","www_msn_com","collection",1,null,null,null,1],null,[]],[["collection/screen_capture","На вашем экране","screen_capture","collection",1,null,null,null,1],null,[]],[["collection/wordpress_com","Wordpress.com","wordpress_com","collection",1,null,null,null,1],null,[]],[["collection/top_picks_web-development","Самое лучшее","top_picks_web-development","collection",1,null,null,null,1],null,[]],[["collection/language_learning","Изучение иностранных языков","language_learning","collection",1,null,null,null,1],null,[]],[["collection/www_pinterest_com","www.pinterest.com","www_pinterest_com","collection",1,null,null,null,1],null,[]],[["collection/bookmarks_lovers","Bookmarks lovers","bookmarks_lovers","collection",1,null,null,null,1],null,[]],[["collection/everyones_favorites","Выбор пользователей","everyones_favorites","collection",1,null,null,null,1],null,[]],[["collection/www_imdb_com","www.imdb.com","www_imdb_com","collection",1,null,null,null,1],null,[]],[["collection/www_reddit_com","www.reddit.com","www_reddit_com","collection",1,null,null,null,1],null,[]],[["collection/reading_lovers","Reading lovers","reading_lovers","collection",1,null,null,null,1],null,[]],[["collection/blogger_extensions","Инструменты блогера","blogger_extensions","collection",1,null,null,null,1],null,[]],[["collection/music_extensions","Любителям музыки","music_extensions","collection",1,null,null,null,1],null,[]],[["collection/quotes_extensions","Мудрые цитаты","quotes_extensions","collection",1,null,null,null,1],null,[]],[["collection/top_picks_blogging","Самое лучшее","top_picks_blogging","collection",1,null,null,null,1],null,[]],[["collection/microsoftonline_com","microsoftonline.com","microsoftonline_com","collection",1,null,null,null,1],null,[]],[["collection/weather_com","\t Weather.com","weather_com","collection",1,null,null,null,1],null,[]],[["collection/relax_extensions","Спокойствие, только спокойствие","relax_extensions","collection",1,null,null,null,1],null,[]],[["collection/www_microsoft_com","www.microsoft.com","www_microsoft_com","collection",1,null,null,null,1],null,[]],[["collection/www_instagram_com","www.instagram.com","www_instagram_com","collection",1,null,null,null,1],null,[]],[["collection/artistic_extension","Искусство и творчество","artistic_extension","collection",1,null,null,null,1],null,[]],[["collection/www_bing_com","www.bing.com","www_bing_com","collection",1,null,null,null,1],null,[]],[["collection/bad_day","Не самый лучший день","bad_day","collection",1,null,null,null,1],null,[]],[["collection/save_it_for_later","Личный архив","save_it_for_later","collection",1,null,null,null,1],null,[]],[["collection/online_productivity","Успевайте больше","online_productivity","collection",1,null,null,null,1],null,[]],[["collection/twitter_com","Twitter.com","twitter_com","collection",1,null,null,null,1],null,[]],[["collection/top_dictionary","top dictionary","top_dictionary","collection",1,null,null,null,1],null,[]],[["collection/online_tools","SEO и социальные сети","online_tools","collection",1,null,null,null,1],null,[]],[["collection/weather_extensions","Погода за окном","weather_extensions","collection",1,null,null,null,1],null,[]],[["collection/procrastination_station","Отвлекитесь от работы","procrastination_station","collection",1,null,null,null,1],null,[]],[["collection/dark_mode","Затемняйте браузер","dark_mode","collection",1,null,null,null,1],null,[]],[["collection/www_netflix_com","www.netflix.com","www_netflix_com","collection",1,null,null,null,1],null,[]],[["collection/top_picks_shopping","Самое лучшее","top_picks_shopping","collection",1,null,null,null,1],null,[]],[["collection/wedding_planning","Подготовка к свадьбе","wedding_planning","collection",1,null,null,null,1],null,[]],[["collection/cyber_monday","Экономные покупки","cyber_monday","collection",1,null,null,null,1],null,[]],[["collection/shopping_coupons","Shopping coupons","shopping_coupons","collection",1,null,null,null,1],null,[]],[["collection/wordle","Wordle Mania","wordle","collection",1,null,null,null,1],null,[]],[["collection/kitchen_companions","Помощники на кухне","kitchen_companions","collection",1,null,null,null,1],null,[]],[["collection/top_picks_productivity","Самое лучшее","top_picks_productivity","collection",1,null,null,null,1],null,[]],[["collection/wfh","Работа из дома","wfh","collection",1,null,null,null,1],null,[]],[["collection/www_twitch_tv","www.twitch.tv","www_twitch_tv","collection",1,null,null,null,1],null,[]],[["collection/craigslist_org","Craigslist.org","craigslist_org","collection",1,null,null,null,1],null,[]],[["collection/top_picks_communication","Самое лучшее","top_picks_communication","collection",1,null,null,null,1],null,[]],[["collection/pdf_extensions","Работайте с PDF эффективнее","pdf_extensions","collection",1,null,null,null,1],null,[]],[["collection/www_tumblr_com","www.tumblr.com","www_tumblr_com","collection",1,null,null,null,1],null,[]],[["collection/2020_gems","Chrome Web Store Gems of 2020","2020_gems","collection",1,null,null,null,1],null,[]],[["collection/video_downloader","Video downloader","video_downloader","collection",1,null,null,null,1],null,[]],[["collection/wallpaper_lovers","Wallpaper lovers","wallpaper_lovers","collection",1,null,null,null,1],null,[]],[["collection/editors_picks_extensions","Выбор редакции","editors_picks_extensions","collection",1,null,null,null,1],null,[]],[["collection/earth_day","Every Day is Earth Day","earth_day","collection",1,null,null,null,1],null,[]],[["collection/www_espn_com","www.espn.com","www_espn_com","collection",1,null,null,null,1],null,[]],[["collection/coupon_extensions","Экономия с Checkout","coupon_extensions","collection",1,null,null,null,1],null,[]],[["collection/top_pdf_extensions","Top pdf extensions","top_pdf_extensions","collection",1,null,null,null,1],null,[]],[["collection/entertainmentcenter","Развлечения","entertainmentcenter","collection",1,null,null,null,1],null,[]],[["collection/travel_extensions","Путешествия","travel_extensions","collection",1,null,null,null,1],null,[]],[["collection/www_yelp_com","www.yelp.com","www_yelp_com","collection",1,null,null,null,1],null,[]],[["collection/www_blogger_com","www.blogger.com","www_blogger_com","collection",1,null,null,null,1],null,[]],[["collection/for_creatives","Всё для творчества","for_creatives","collection",1,null,null,null,1],null,[]],[["collection/top_clocks","Top clocks","top_clocks","collection",1,null,null,null,1],null,[]],[["collection/top_picks_news","Самое лучшее","top_picks_news","collection",1,null,null,null,1],null,[]],[["collection/messenger_lovers","Messenger lovers","messenger_lovers","collection",1,null,null,null,1],null,[]],[["collection/92503-shoppers-bargain_hunters","92503-Shoppers-Bargain_Hunters","92503-shoppers-bargain_hunters","collection",1,null,null,null,1],null,[]],[["collection/video_extensions","Enhance Your Playback","video_extensions","collection",1,null,null,null,1],null,[]],[["collection/www_salesforce_com","www.salesforce.com","www_salesforce_com","collection",1,null,null,null,1],null,[]],[["collection/3p_accessibility_extensions","Расширения со специальными возможностями","3p_accessibility_extensions","collection",1,null,null,null,1],null,[]],[["collection/www_nytimes_com","www.nytimes.com","www_nytimes_com","collection",1,null,null,null,1],null,[]],[["collection/www_google_com","www.google.com","www_google_com","collection",1,null,null,null,1],null,[]],[["collection/top_volume","top volume","top_volume","collection",1,null,null,null,1],null,[]],[["collection/90200-sports_fans","90200-Sports_Fans","90200-sports_fans","collection",1,null,null,null,1],null,[]],[["collection/get_started","Extensions Starter Kit","get_started","collection",1,null,null,null,1],null,[]],[["collection/travel_smarter","Путешествуйте с умом","travel_smarter","collection",1,null,null,null,1],null,[]],[["collection/social","Ещё больше друзей","social","collection",1,null,null,null,1],null,[]],[["collection/www_buzzfeed_com","www.buzzfeed.com","www_buzzfeed_com","collection",1,null,null,null,1],null,[]],[["collection/www_youtube_com","www.youtube.com","www_youtube_com","collection",1,null,null,null,1],null,[]],[["collection/top_picks_fun","Самое лучшее","top_picks_fun","collection",1,null,null,null,1],null,[]],[["collection/www_dropbox_com","www.dropbox.com","www_dropbox_com","collection",1,null,null,null,1],null,[]],[["collection/top_weather","Top weather","top_weather","collection",1,null,null,null,1],null,[]],[["collection/www_walmart_com","www.walmart.com","www_walmart_com","collection",1,null,null,null,1],null,[]],[["collection/spring_cleaning","Весенняя уборка","spring_cleaning","collection",1,null,null,null,1],null,[]],[["collection/ph","Золотая коллекция Product Hunt","ph","collection",1,null,null,null,1],null,[]],[["collection/www_ntd_tv","www.ntd.tv","www_ntd_tv","collection",1,null,null,null,1],null,[]],[["collection/91100-pet_lovers","91100-pet_lovers","91100-pet_lovers","collection",1,null,null,null,1],null,[]]]],[["themes","Темы","themes",null,null,null,[[["featured","Рекомендованные",10,null,0],["mcol#latino_artist_themes","Подборка работ латиноамериканских авторов",1,"collection/latino_artist_themes",null,null,null,"Explore Chrome backgrounds by Latino artists"],["mcol#dark_themes","Оттенки ночи",1,"collection/dark_themes",null,null,null,"Оформление браузера в темных тонах"],["mcol#chrome_color_themes","Color Themes by Chrome",1,"collection/chrome_color_themes",null,null,null,"With love from the Chrome team ♥"],["mcol#artist_themes","Подборка работ темнокожих авторов",1,"collection/artist_themes",null,null,null,"Фоновые изображения Chrome, созданные темнокожими художниками."],["mcol#lgbtq_themes","Подборка от авторов из сообщества ЛГБТК",1,"collection/lgbtq_themes",null,null,null,"Окрасьте фоновые изображения Chrome в цвета ЛГБТК."],["mcol#zodiac_animals_theme","Животные зодиака",1,"collection/zodiac_animals_theme",null,null,null,"Веселый лунный зодиак."],["mcol#the_art_gallery","Арт-галерея",1,"collection/the_art_gallery",null,null,null,"Превратите браузер в произведение искусства"],["mcol#minimalist_themes","Минимализм",1,"collection/minimalist_themes",null,null,null,"Просто и со вкусом"],["mcol#colorful_themes","Цветные темы",1,"collection/colorful_themes",null,null,null,"Раскрасьте свой браузер"],["mcol#into_the_forest","Лесная прохлада",1,"collection/into_the_forest",null,null,null,"Станьте ближе к природе"],["mcol#pretty_patterns","Интересные узоры",1,"collection/pretty_patterns",null,null,null,"Цветы, огурцы и другие орнаменты"],["mcol#car_themes","Крутые тачки",1,"collection/car_themes",null,null,null,"Темы для автолюбителей"],["mcol#blue_themes","Оттенки синего",1,"collection/blue_themes",null,null,null,"Все грани цвета"],["mcol#sunny_themes","Солнечные картинки",1,"collection/sunny_themes",null,null,null,"Для поднятия настроения"],["mcol#flower_themes","Яркий Chrome",1,"collection/flower_themes",null,null,null,"Темы с цветами"],["mcol#megalopolis","Мегаполис",1,"collection/megalopolis",null,null,null,"Небоскребы и городские пейзажи"],["mcol#space_exploration","Исследование космоса",1,"collection/space_exploration",null,null,null,"Звезды, планеты, галактики и многое другое"],["mcol#cats_themes","Котики в Chrome",1,"collection/cats_themes",null,null,null,"Милые и пушистые домашние любимцы"],["mcol#water_themes","Кругом вода",1,"collection/water_themes",null,null,null,"Дождь, море, озера и не только"],["mcol#for_animal_lovers","Любителям животных",1,"collection/for_animal_lovers",null,null,null,"Добавьте тему Chrome с пушистым любимцем"],["mcol#doodles_and_friends","Веселые картинки",1,"collection/doodles_and_friends",null,null,null,"Карикатуры, рисунки, аниме и не только"],["mcol#mountain_themes","В горы",1,"collection/mountain_themes",null,null,null,"Виды с вершин"],["mcol#enchanting_places","Природная красота",1,"collection/enchanting_places",null,null,null,"Завораживающие пейзажи со всего мира"],["mcol#pink_themes","Оттенки розового",1,"collection/pink_themes",null,null,null,"Нарядное оформление браузера"],["mcol#sky_themes","Высоко в небе",1,"collection/sky_themes",null,null,null,"Глоток свежего воздуха"],["mcol#woof","Милые щенки",1,"collection/woof",null,null,null,"Для тех, кто любит собак"],["mcol#beach_themes","Все на пляж",1,"collection/beach_themes",null,null,null,"Наслаждаться бескрайними видами"],["mcol#foodies_themes","Темы для гурманов",1,"collection/foodies_themes",null,null,null,"Фрукты и деликатесы"],["mcol#sports_themes","Немного спорта",1,"collection/sports_themes",null,null,null,"Chrome для активных людей"],["mcol#fashion_themes","Модные темы",1,"collection/fashion_themes",null,null,null,"Для тех, кто ценит стиль"],["infiniteWall","Все рекомендации",null,null,0]]]],null,[[["collection/foodies_themes","Темы для гурманов","foodies_themes","collection",1,null,null,null,1],null,[]],[["collection/latino_artist_themes","Подборка работ латиноамериканских авторов","latino_artist_themes","collection",1,null,null,null,1],null,[]],[["collection/editors_picks_themes","Выбор Google","editors_picks_themes","collection",1,null,null,null,1],null,[]],[["collection/cats_themes","Котики в Chrome","cats_themes","collection",1,null,null,null,1],null,[]],[["collection/sports_themes","Немного спорта","sports_themes","collection",1,null,null,null,1],null,[]],[["collection/pretty_patterns","Интересные узоры","pretty_patterns","collection",1,null,null,null,1],null,[]],[["collection/colorful_themes","Цветные темы","colorful_themes","collection",1,null,null,null,1],null,[]],[["collection/woof","Милые щенки","woof","collection",1,null,null,null,1],null,[]],[["collection/lgbtq_themes","Подборка от авторов из сообщества ЛГБТК","lgbtq_themes","collection",1,null,null,null,1],null,[]],[["collection/fishy_themes","Подводный мир","fishy_themes","collection",1,null,null,null,1],null,[]],[["collection/zodiac_animals_theme","Животные зодиака","zodiac_animals_theme","collection",1,null,null,null,1],null,[]],[["collection/dark_themes","Оттенки ночи","dark_themes","collection",1,null,null,null,1],null,[]],[["collection/mountain_themes","В горы","mountain_themes","collection",1,null,null,null,1],null,[]],[["collection/sunny_themes","Солнечные картинки","sunny_themes","collection",1,null,null,null,1],null,[]],[["collection/sky_themes","Высоко в небе","sky_themes","collection",1,null,null,null,1],null,[]],[["collection/megalopolis","Мегаполис","megalopolis","collection",1,null,null,null,1],null,[]],[["collection/for_animal_lovers","Любителям животных","for_animal_lovers","collection",1,null,null,null,1],null,[]],[["collection/flower_themes","Яркий Chrome","flower_themes","collection",1,null,null,null,1],null,[]],[["collection/let_it_snow","Снежная сказка","let_it_snow","collection",1,null,null,null,1],null,[]],[["collection/green_open_spaces","Трава у дома","green_open_spaces","collection",1,null,null,null,1],null,[]],[["collection/space_exploration","Исследование космоса","space_exploration","collection",1,null,null,null,1],null,[]],[["collection/pink_themes","Оттенки розового","pink_themes","collection",1,null,null,null,1],null,[]],[["collection/artist_themes","Подборка работ темнокожих авторов","artist_themes","collection",1,null,null,null,1],null,[]],[["collection/chrome_color_themes","Color Themes by Chrome","chrome_color_themes","collection",1,null,null,null,1],null,[]],[["collection/beach_themes","Все на пляж","beach_themes","collection",1,null,null,null,1],null,[]],[["collection/enchanting_places","Природная красота","enchanting_places","collection",1,null,null,null,1],null,[]],[["collection/car_themes","Крутые тачки","car_themes","collection",1,null,null,null,1],null,[]],[["collection/fashion_themes","Модные темы","fashion_themes","collection",1,null,null,null,1],null,[]],[["collection/into_the_forest","Лесная прохлада","into_the_forest","collection",1,null,null,null,1],null,[]],[["collection/minimalist_themes","Минимализм","minimalist_themes","collection",1,null,null,null,1],null,[]],[["collection/heroes_themes","Супергерои","heroes_themes","collection",1,null,null,null,1],null,[]],[["collection/blue_themes","Оттенки синего","blue_themes","collection",1,null,null,null,1],null,[]],[["collection/birdwatching","Темы с птицами","birdwatching","collection",1,null,null,null,1],null,[]],[["collection/games_themes","Games \u0026 Anime Themes","games_themes","collection",1,null,null,null,1],null,[]],[["collection/water_themes","Кругом вода","water_themes","collection",1,null,null,null,1],null,[]],[["collection/chrome_themes","Themes Published by Google","chrome_themes","collection",1,null,null,null,1],null,[]],[["collection/doodles_and_friends","Веселые картинки","doodles_and_friends","collection",1,null,null,null,1],null,[]],[["collection/the_art_gallery","Арт-галерея","the_art_gallery","collection",1,null,null,null,1],null,[]]]],[["apps","Приложения","apps",null,1,null,[[["featured","Рекомендованные",10,null,0],["mcol#new_noteworthy","Новые и обновленные приложения",1,"collection/new_noteworthy",null,null,null,""],["mcol#editors_picks","Выбор Google",1,"collection/editors_picks",null,null,null,"Лучшее для Chrome"],["mcol#couch_potato_pleasure","Радости домоседа",1,"collection/couch_potato_pleasure",null,null,null,"Читайте, смотрите, слушайте и играйте"],["mcol#picture_perfect","Отличный кадр",1,"collection/picture_perfect",null,null,null,"Впечатляющие фотографии и видеоролики своими руками"],["mcol#for_your_desktop","Для компьютера",1,"collection/for_your_desktop",null,null,null,"Потрясающие приложения: без браузера и Интернета."],["mcol#unleash_creativity","Творческий подход",1,"collection/unleash_creativity",null,null,null,"Развитие творческий способностей в школе."],["mcol#stress_relievers","Антистресс",1,"collection/stress_relievers",null,null,null,"Снятие напряжения после трудного дня"],["mcol#also_on_android","Игры и приложения для Android",1,"collection/also_on_android",null,null,null,"Лучшие приложения для устройств на базе Android и Chrome OS"],["infiniteWall","Все рекомендации"]]]],null,[[["collection/offline_enabled","Офлайн-приложения","offline_enabled","collection",1,null,null,null,1],null,[]],[["collection/drive_apps","Google Диск","drive_apps","collection",1,null,null,null,1],null,[]],[["collection/test_prep","Экзамены на отлично","test_prep","collection",1,null,null,null,1],null,[]],[["collection/weather_outdoor","Погода за окном","weather_outdoor","collection",1,null,null,null,1],null,[]],[["collection/educators","Приложения для преподавателей","educators","collection",1,null,null,null,1],null,[]],[["collection/financial_tools","Простая экономия","financial_tools","collection",1,null,null,null,1],null,[]],[["collection/also_on_android","Игры и приложения для Android","also_on_android","collection",1,null,null,null,1],null,[]],[["collection/back_to_school","Школьный класс","back_to_school","collection",1,null,null,null,1],null,[]],[["collection/website_creation","Создание сайта","website_creation","collection",1,null,null,null,1],null,[]],[["collection/unleash_creativity","Творческий подход","unleash_creativity","collection",1,null,null,null,1],null,[]],[["collection/health_fitness","Здоровье и спорт","health_fitness","collection",1,null,null,null,1],null,[]],[["collection/picture_perfect","Отличный кадр","picture_perfect","collection",1,null,null,null,1],null,[]],[["collection/kiosk-apps","Киоск-приложения","kiosk-apps","collection",1,null,null,null,1],null,[]],[["collection/stress_relievers","Антистресс","stress_relievers","collection",1,null,null,null,1],null,[]],[["collection/music_lovers","Любителям музыки","music_lovers","collection",1,null,null,null,1],null,[]],[["collection/for_your_desktop","Для компьютера","for_your_desktop","collection",1,null,null,null,1],null,[]],[["collection/football","Футбол","football","collection",1,null,null,null,1],null,[]],[["collection/guitar","Струнные будни","guitar","collection",1,null,null,null,1],null,[]],[["collection/new_noteworthy","Новые и обновленные приложения","new_noteworthy","collection",1,null,null,null,1],null,[]],[["collection/college","Студентам","college","collection",1,null,null,null,1],null,[]],[["collection/learning_essential","Начальное обучение","learning_essential","collection",1,null,null,null,1],null,[]],[["collection/chromium-developer-tools","Инструменты разработчика Chromium","chromium-developer-tools","collection",1,null,null,null,1],null,[]],[["collection/couch_potato_pleasure","Радости домоседа","couch_potato_pleasure","collection",1,null,null,null,1],null,[]],[["collection/change_your_clock","Красивые часы","change_your_clock","collection",1,null,null,null,1],null,[]],[["collection/new_year","Новый год – новая жизнь!","new_year","collection",1,null,null,null,1],null,[]],[["collection/business-app-pack","Управление предприятием","business-app-pack","collection",1,null,null,null,1],null,[]],[["collection/editors_picks","Выбор Google","editors_picks","collection",1,null,null,null,1],null,[]],[["collection/cat_lolz","Забавные коты","cat_lolz","collection",1,null,null,null,1],null,[]],[["collection/books_at_your_fingertips","Изба-читальня","books_at_your_fingertips","collection",1,null,null,null,1],null,[]],[["collection/making_music","Музыка своими руками","making_music","collection",1,null,null,null,1],null,[]],[["collection/hidden_gems","Hidden Gems","hidden_gems","collection",1,null,null,null,1],null,[]],[["app/49-business-tools","Бизнес-инструменты","49-business-tools","app",null,null,[[["featured","Рекомендованные",10,null,0],["mcol#business-app-pack","Управление предприятием",1,"collection/business-app-pack",null,null,null,"Приложения для управления предприятием в Chrome"],["mcol#visual_collaboration","Совместная работа в Chrome",1,null,null,null,null,"Приложения для совместной работы. Помните: одна голова – хорошо, а две – лучше."],["infiniteWall","Все рекомендации",null,null,0]]]],null,[[["app/116-administration-and-management","Администрация и управление","116-administration-and-management","app"],null,[]],[["app/66-accounting-and-finance","Бухгалтерский учет и финансы","66-accounting-and-finance","app"],null,[]],[["app/68-marketing-and-analytics","Маркетинг и аналитика","68-marketing-and-analytics","app"],null,[]],[["app/114-hr-and-legal","Подбор кадров и юриспруденция","114-hr-and-legal","app"],null,[]],[["app/74-sales-and-crm","Продажи и взаимодействие с клиентами","74-sales-and-crm","app"],null,[]],[["app/115-erp-and-logistics","Управление ресурсами и логистика","115-erp-and-logistics","app"],null,[]]]],[["app/3-games","Игры","3-games","app",null,null,[[["featured","Рекомендованные",10,null,0],["mcol#new_noteworthy_games","Новые и обновленные игры",1,"collection/new_noteworthy_games",null,null,null,""],["mcol#editors_picks_games","Выбор Google",1,"collection/editors_picks_games",null,null,null,"Лучшее для Chrome"],["mcol#offline_games","Лучшие офлайн-игры",1,"collection/offline_games",null,null,null,"Играйте даже без подключения к Интернету"],["mcol#puzzle_games","Зарядка для ума",1,"collection/puzzle_games",null,null,null,"Игры и головоломки"],["mcol#retro_games","Ретро-игры",1,"collection/retro_games",null,null,null,"Ваша ежедневная порция ностальгии"],["mcol#multiplayer_games","Многопользовательские игры",1,"collection/multiplayer_games",null,null,null,"Играйте вместе с другими пользователями. Это можно делать как онлайн, так и при личной встрече."],["mcol#sports_games","Настоящим фанатам",1,"collection/sports_games",null,null,null,"Популярные спортивные игры"],["mcol#indie_games","Лучшие инди-игры",1,"collection/indie_games",null,null,null,"Популярные игры от независимых разработчиков со всего Интернета"],["mcol#strategy_games","Генералы, к бою!",1,"collection/strategy_games",null,null,null,"Станьте настоящим стратегом и завоевывайте новые территории во главе собственного войска."],["mcol#word_games","Игры в слова",1,"collection/word_games",null,null,null,"Тренируйте эрудицию"],["mcol#rpg","Ролевые игры для настоящих героев",1,"collection/rpg",null,null,null,"Подборка лучших ролевых игр."],["infiniteWall","Все рекомендации",null,null,0]]]],null,[[["app/31-arcade-action","Аркады и экшн","31-arcade-action","app"],null,[]],[["app/33-virtual-worlds","Виртуальные миры","33-virtual-worlds","app"],null,[]],[["app/35-puzzle-brain","Головоломки","35-puzzle-brain","app"],null,[]],[["app/32-board-card","Настольные и карточные игры","32-board-card","app"],null,[]],[["app/34-role-playing-strategy","Ролевые игры и стратегии","34-role-playing-strategy","app"],null,[]],[["app/37-sports-game","Спортивные игры","37-sports-game","app"],null,[]]]],[["app/6-news","Новости и погода","6-news","app"],null,[[["app/58-news-reporting","Новости","58-news-reporting","app"],null,[]],[["app/65-weather-forecasts","Прогноз погоды","65-weather-forecasts","app"],null,[]],[["app/63-social-news","Социальные новости","63-social-news","app"],null,[]],[["app/64-sports","Спорт","64-sports","app"],null,[]]]],[["app/8-education","Образование","8-education","app",null,null,[[["featured","Рекомендованные",10,null,0],["mcol#learning_games","Обучающие игры",1,"collection/learning_games",null,null,null,"Учимся, играя. Учеба – это весело!"],["mcol#test_prep","Экзамены на отлично",1,"collection/test_prep",null,null,null,"Полезные инструменты для подготовки к экзаменам"],["mcol#college","Студентам",1,"collection/college",null,null,null,"Все необходимое для учебы в вузе"],["mcol#educators","Приложения для преподавателей",1,"collection/educators",null,null,null,"Новые возможности для педагогов"],["mcol#learning_essential","Начальное обучение",1,"collection/learning_essential",null,null,null,"Основы для каждого класса"],["infiniteWall","Все рекомендации",null,null,0]]]],null,[[["app/98-foreign-languages","Иностранные языки","98-foreign-languages","app"],null,[]],[["app/100-teacher-and-admin-tools","Инструменты для учителей и администраторов","100-teacher-and-admin-tools","app"],null,[]],[["app/95-academic-resources","Научные ресурсы","95-academic-resources","app"],null,[]],[["app/99-family","Семья","99-family","app"],null,[]]]],[["app/7-productivity","Работа","7-productivity","app"],null,[[["app/109-search-and-browsing-tools","Инструменты для просмотра и поиска","109-search-and-browsing-tools","app"],null,[]],[["app/89-creative-tools","Инструменты для творчества","89-creative-tools","app"],null,[]],[["app/11-web-development","Инструменты разработчика","11-web-development","app"],null,[]],[["app/69-office-applications","Офисные приложения","69-office-applications","app"],null,[]],[["app/87-task-management","Управление задачами","87-task-management","app"],null,[]]]],[["app/2-entertainment","Развлечения","2-entertainment","app"],null,[[["app/83-online-videos","Видео в Интернете","83-online-videos","app"],null,[]],[["app/45-books","Книги","45-books","app"],null,[]],[["app/81-music-and-radio","Музыка и радио","81-music-and-radio","app"],null,[]],[["app/42-tv-movies","ТВ и фильмы","42-tv-movies","app"],null,[]],[["app/28-photos","Фото","28-photos","app"],null,[]]]],[["app/1-communication","Социальные сети и общение","1-communication","app"],null,[[["app/10-blogging","Блоги","10-blogging","app"],null,[]],[["app/78-social-networks","Социальные сети","78-social-networks","app"],null,[]],[["app/76-phone-and-sms","Телефон и SMS","76-phone-and-sms","app"],null,[]],[["app/75-chat-and-im","Чат","75-chat-and-im","app"],null,[]],[["app/76-email-and-contacts","Электронная почта и контакты","76-email-and-contacts","app"],null,[]]]],[["app/5-lifestyle","Стиль жизни","5-lifestyle","app"],null,[[["app/103-astrology","Астрология","103-astrology","app"],null,[]],[["app/104-food-and-health","Питание и здоровье","104-food-and-health","app"],null,[]],[["app/12-shopping","Покупки","12-shopping","app"],null,[]],[["app/108-travel","Путешествия","108-travel","app"],null,[]],[["app/105-religion","Религия","105-religion","app"],null,[]],[["app/40-money","Финансы","40-money","app"],null,[]]]],[["app/9-utilities","Утилиты","9-utilities","app"],null,[[["app/94-notepads","Блокноты","94-notepads","app"],null,[]],[["app/90-alarms-and-clocks","Будильники и часы","90-alarms-and-clocks","app"],null,[]],[["app/91-bookmarks","Закладки","91-bookmarks","app"],null,[]],[["app/92-calculators","Калькуляторы","92-calculators","app"],null,[]],[["app/93-dictionaries","Словари","93-dictionaries","app"],null,[]]]]]],[["app/3-games","Игры","3-games","app",null,null,[[["featured","Рекомендованные",10,null,0],["mcol#new_noteworthy_games","Новые и обновленные игры",1,"collection/new_noteworthy_games",null,null,null,""],["mcol#editors_picks_games","Выбор Google",1,"collection/editors_picks_games",null,null,null,"Лучшее для Chrome"],["mcol#offline_games","Лучшие офлайн-игры",1,"collection/offline_games",null,null,null,"Играйте даже без подключения к Интернету"],["mcol#puzzle_games","Зарядка для ума",1,"collection/puzzle_games",null,null,null,"Игры и головоломки"],["mcol#retro_games","Ретро-игры",1,"collection/retro_games",null,null,null,"Ваша ежедневная порция ностальгии"],["mcol#multiplayer_games","Многопользовательские игры",1,"collection/multiplayer_games",null,null,null,"Играйте вместе с другими пользователями. Это можно делать как онлайн, так и при личной встрече."],["mcol#sports_games","Настоящим фанатам",1,"collection/sports_games",null,null,null,"Популярные спортивные игры"],["mcol#indie_games","Лучшие инди-игры",1,"collection/indie_games",null,null,null,"Популярные игры от независимых разработчиков со всего Интернета"],["mcol#strategy_games","Генералы, к бою!",1,"collection/strategy_games",null,null,null,"Станьте настоящим стратегом и завоевывайте новые территории во главе собственного войска."],["mcol#word_games","Игры в слова",1,"collection/word_games",null,null,null,"Тренируйте эрудицию"],["mcol#rpg","Ролевые игры для настоящих героев",1,"collection/rpg",null,null,null,"Подборка лучших ролевых игр."],["infiniteWall","Все рекомендации",null,null,0]]]],null,[[["app/31-arcade-action","Аркады и экшн","31-arcade-action","app"],null,[]],[["app/33-virtual-worlds","Виртуальные миры","33-virtual-worlds","app"],null,[]],[["app/35-puzzle-brain","Головоломки","35-puzzle-brain","app"],null,[]],[["app/32-board-card","Настольные и карточные игры","32-board-card","app"],null,[]],[["app/34-role-playing-strategy","Ролевые игры и стратегии","34-role-playing-strategy","app"],null,[]],[["app/37-sports-game","Спортивные игры","37-sports-game","app"],null,[]],[["collection/learning_games","Обучающие игры","learning_games","collection",1,null,null,null,1],null,[]],[["collection/retro_games","Ретро-игры","retro_games","collection",1,null,null,null,1],null,[]],[["collection/puzzle_games","Зарядка для ума","puzzle_games","collection",1,null,null,null,1],null,[]],[["collection/offline_games","Лучшие офлайн-игры","offline_games","collection",1,null,null,null,1],null,[]],[["collection/editors_picks_games","Выбор Google","editors_picks_games","collection",1,null,null,null,1],null,[]],[["collection/indie_games","Лучшие инди-игры","indie_games","collection",1,null,null,null,1],null,[]],[["collection/new_noteworthy_games","Новые и обновленные игры","new_noteworthy_games","collection",1,null,null,null,1],null,[]],[["collection/sports_games","Настоящим фанатам","sports_games","collection",1,null,null,null,1],null,[]],[["collection/strategy_games","Генералы, к бою!","strategy_games","collection",1,null,null,null,1],null,[]],[["collection/word_games","Игры в слова","word_games","collection",1,null,null,null,1],null,[]],[["collection/multiplayer_games","Многопользовательские игры","multiplayer_games","collection",1,null,null,null,1],null,[]],[["collection/rpg","Ролевые игры для настоящих героев","rpg","collection",1,null,null,null,1],null,[]]]]]],"","https://payments.google.com","https://support.google.com/payments",null,null,1,1,null,[["ВКонтакте","https://ssl.gstatic.com/chrome/webstore/images/share_vk.png",600,400,"http://vk.com/share.php?url\u003d{$url}","vk"]],"https://plus.google.com/up/?gpsrc\u003dcwar1\u0026type\u003dst",0,"production_config",null,"chrome.google.com",null,0,"CHROME",0,"31.0.1608.2",[null,null,null,"https://clients2.google.com/service/update2/crx"],0,1]</script><style nonce="AlVhgUP5urSsuf3Ez0Qpaw">@media (transform-3d),(-webkit-transform-3d),(-moz-transform-3d), (-ms-transform-3d),(-o-transform-3d),(-khtml-transform-3d) {.sh-bl-Gl-Sh {left: 9px; position: absolute;}}@media (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx)              {.sh-rj-tj-Sh {left: 9px; position: absolute;}}</style></meta></head><body><input id="hist_state" style="display:none" type="text"/><iframe id="hist_frame" style="display:none" tabindex="-1"></iframe><div class="sh-rj-tj-Sh"></div><div class="sh-bl-Gl-Sh"></div><script nonce="pDh2xjhGLKtcqxTfODTypg" src="/_/scs/cws-static/_/js/k=cws.main.ru.QrmnoWkuvv8.O/d=1/rs=AAxzQIWiUiq8OxOvUlEcIHpUHzfWlG6n1Q/m=consumer"></script></body></html>
+
+
+
+
+https://www.apple.com/us/search/СберМегаМаркет?src=globalnav
+
+
+
+
+
+<!DOCTYPE html>
+
+<html class="en-us amr nojs en seg-consumer us" lang="en-US">
+<head>
+<meta content="width=1024" name="viewport"/>
+<title>СберМегаМаркет - Apple</title>
+<meta charset="utf-8"/>
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="Apple Store Search Results" name="description"/>
+<meta content="noindex, nofollow" name="robots"/>
+<link href="https://www.apple.com/search/%D0%A1%D0%B1%D0%B5%D1%80%D0%9C%D0%B5%D0%B3%D0%B0%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%82?src=globalnav" rel="canonical"/>
+<script> document.cookie = "as_sfa=Mnx1c3x1c3x8ZW5fVVN8Y29uc3VtZXJ8aW50ZXJuZXR8MHwwfDE; path=/; domain=apple.com; expires=Sun, 26-Mar-2023 16:24:00 GMT; Secure;"; </script>
+<script id="metrics" type="application/json">{"config":{"asMetrics":{"dataMule":"v1","graffitiEnabled":false,"enableSendBeacon":["userInteraction"],"useInitializeArgs":false},"omniture":{"account":["applestoreww"],"trackingServer":"securemetrics.apple.com","linkInternalFilters":["javascript:","store.apple.com","secure.store.apple.com","secure1.store.apple.com","secure2.store.apple.com","epp.apple.com","secure1.epp.apple.com","storeint.apple.com","secure1.storeint.apple.com","www.apple.com","#"],"internalDomains":["store.apple.com","secure.store.apple.com","secure1.store.apple.com","epp.apple.com","storeint.apple.com","downloads.apple.com","downloads.apple.com","www.apple.com"]},"global":{"cookieDomain":"apple.com"}},"data":{"node":"standard/home/search/search_results","properties":{"isHomePage":false,"encryptedStoreId":"wHF2F2PHCCCX72KDY","computedPageName":"AOS: home/search/search_results","serverName":"w28033","hier1":"home/search/search_results","characterSetForCountry":"UTF-8","currencyCode":"USD","computedChannel":"AOS: Search","crossSegmentTrackingVariable":"AOS: US Consumer: home/search/search_results","storeSegmentVariable":"AOS: US Consumer","storeFrontId":"10078","computedCustomStoreName":"AOS: US Consumer","langAttribute":"en-us","evarDataNodesEnabled":true},"currency":"USD","area":"search","search":{"searchTerm":"СберМегаМаркет","selectedTab":"explore","categories":{"explore":{"pageNumber":1,"numOfPages":1,"totalCountText":"10 results found","curated":true}}}}}</script>
+<script>
+                     if (/(iPad).*OS ([6-9]|[1-9][0-9]).*AppleWebKit.*Mobile.*Safari/.test(navigator.userAgent)) {
+                       var headNode = document.getElementsByTagName("head")[0];
+var sbNode = document.createElement('meta');
+var url = decodeURI("https://www.apple.com/search/%D0%A1%D0%B1%D0%B5%D1%80%D0%9C%D0%B5%D0%B3%D0%B0%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%82?src=globalnav");
+var ses = "; " + document.cookie;
+var sesParts = ses.split("; s_vi=");
+ses = sesParts.length == 2 ? sesParts.pop().split(";").shift() : '';
+if (ses !== '') {
+    url += url.indexOf('?') >= 0 ? '&' : '?';
+    url += 'ses=' + encodeURI(ses);
+}
+sbNode.name = 'apple-itunes-app';
+sbNode.content = 'app-id=375380948, app-argument=' + url;
+headNode.appendChild(sbNode);
+
+                     }
+                    else if (/(iPhone|iPod).*OS ([6-9]|[1-9][0-9]).*AppleWebKit.*Mobile.*Safari/.test(navigator.userAgent)) {
+                      var headNode = document.getElementsByTagName("head")[0];
+var sbNode = document.createElement('meta');
+var url = decodeURI("https://www.apple.com/search/%D0%A1%D0%B1%D0%B5%D1%80%D0%9C%D0%B5%D0%B3%D0%B0%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%82?src=globalnav");
+var ses = "; " + document.cookie;
+var sesParts = ses.split("; s_vi=");
+ses = sesParts.length == 2 ? sesParts.pop().split(";").shift() : '';
+if (ses !== '') {
+    url += url.indexOf('?') >= 0 ? '&' : '?';
+    url += 'ses=' + encodeURI(ses);
+}
+sbNode.name = 'apple-itunes-app';
+sbNode.content = 'app-id=375380948, app-argument=' + url;
+headNode.appendChild(sbNode);
+
+                    }
+            </script>
+<script>
+		window.asUnsupportedBrowserUrl = "https://www.apple.com/shop/unsupported";
+	</script>
+<script>
+	//replace nojs class with js on html element
+	(function(html){
+		html.className = html.className.replace(/\bnojs\b/,'js')
+	})(document.documentElement);
+</script>
+<link href="https://store.storeimages.cdn-apple.com/4982/store.apple.com/shop/rs-external/rel/us/external.css" media="screen, print" rel="stylesheet"/>
+<link href="https://store.storeimages.cdn-apple.com/4982/store.apple.com/shop/rs-globalelements/dist/us/globalelements.css" media="screen, print" rel="stylesheet"/>
+<link href="https://store.storeimages.cdn-apple.com/4982/store.apple.com/shop/rs-vendor/1/dist/common-css@0.2.0/common.css" media="screen, print" rel="stylesheet"/>
+<link href="https://store.storeimages.cdn-apple.com/4982/store.apple.com/shop/rs-accessories/2/dist/search-results.css" media="screen, print" rel="stylesheet"/>
+<link href="https://store.storeimages.cdn-apple.com/4982/store.apple.com/shop/Catalog/global/css/web/merch/merch-tools.css" media="screen, print" rel="stylesheet"/>
+<link href="https://www.apple.com/wss/fonts?families=SF+Pro,v3:200,300,400,500,600|SF+Pro+Icons,v3" media="" rel="stylesheet"/>
+<script>
+		window.irOn=true;
+	</script>
+<script>
+window.ECHO_CONFIG = {
+    metadata: {
+        environment: "",
+        sf: "us",
+        segment: "Consumer",
+        locale: "en-us",
+        referer: document.referrer
+    },
+    config: {
+        "app": "com.apple.www.Store",
+        "delaySendingPageViewDataMS": 500,
+        "nonEssentialEventSampleRatePct": 1.0,
+        "performanceMeasurePollingIntervalMS": 1000,
+        "performanceMeasuresToReport": "".split(','),
+        "resourceDisallowedResourceList": "securemetrics.apple.com".split(','),
+        "resourcePollingIntervalMS": 2000,
+        "sendErrors": true,
+        "sendPageViewData": true,
+        "sendResourceData":  true,
+        "url": "https://xp.apple.com/report/2/xp_aos_clientperf"
+    }
+};
+    </script>
+<script nomodule="" src="https://store.storeimages.cdn-apple.com/4982/store.apple.com/shop/rs-echo/3/dist/echo-nomodule.min.js"></script>
+<script nomodule="" src="https://store.storeimages.cdn-apple.com/4982/store.apple.com/shop/rs-external/rel/unsupportedBrowser.min.js"></script>
+<script async="" src="https://store.storeimages.cdn-apple.com/4982/store.apple.com/shop/rs-echo/3/dist/echo.min.js" type="module"></script>
+<script src="https://store.storeimages.cdn-apple.com/4982/store.apple.com/shop/rs-external/rel/external.js"></script>
+<script src="https://store.storeimages.cdn-apple.com/4982/store.apple.com/shop/rs-vendor/1/dist/react@17.0.1/umd/react.production.min.js"></script>
+<script src="https://store.storeimages.cdn-apple.com/4982/store.apple.com/shop/rs-vendor/1/dist/react-dom@17.0.1/umd/react-dom.production.min.js"></script>
+<script src="https://store.storeimages.cdn-apple.com/4982/store.apple.com/shop/rs-globalelements/dist/globalelements.js"></script>
+<script src="https://store.storeimages.cdn-apple.com/4982/store.apple.com/shop/rs-accessories/2/dist/search-results.js"></script>
+<script>
+    window.chatConfig = {"chat":{"page":[{"name":"WEB_CHAT_COUNTRY","value":"us"},{"name":"WEB_CHAT_LANGUAGE","value":"en"},{"name":"WEB_CHAT_ORDERNUMBER","value":null},{"name":"WEB_CHAT_GEO","value":"amr"},{"name":"WEB_CHAT_SEGMENT","value":"consumer"},{"name":"WEB_CHAT_SECTION","value":"product selection"},{"name":"WEB_CHAT_SUBSECTION","value":"search_results"},{"name":"WEB_CHAT_REFER","value":null},{"name":"WEB_CHAT_APP","value":"AOS"},{"name":"WEB_CHAT_PAGE","value":"AOS: home/search/search_results"},{"name":"url","value":"https://contactretail.apple.com"}]}};
+</script>
+<script></script>
+<script>
+		if(!/dssid2/.test(document.cookie) || !/as_dc/.test(document.cookie))
+		{
+			Event.onDomReady(function() {
+				var ie = document.createElement("IMG");
+				ie.src = '/shop/dc';
+				ie.width = ie.height = 1;
+				ie.style.display = "none";
+				ie.alt = "";
+				document.body.appendChild(ie);
+			});
+		}
+</script>
+</head>
+<body class="rf-search-results">
+<div class="metrics">
+<noscript>
+<img alt="" height="1" src="https://securemetrics.apple.com/b/ss/applestoreww/1/H.8--NS/0?pageName=No-Script:AOS%3A+home%2Fsearch%2Fsearch_results" width="1"/>
+</noscript>
+<script></script>
+<script>
+                 window.asMetrics.initialize();
+    </script>
+</div>
+<script>
+		if(!/dssid2/.test(document.cookie) || !/as_dc/.test(document.cookie))
+		{
+			Event.onDomReady(function() {
+				var ie = document.createElement("IMG");
+				ie.src = '/shop/dc';
+				ie.width = ie.height = 1;
+				ie.style.display = "none";
+				ie.alt = "";
+				document.body.appendChild(ie);
+			});
+		}
+</script>
+<div id="page">
+<meta content="SJHJUH4YFCTTPD4F4" name="ac-gn-store-key"/>
+<meta content="true" name="ac-gn-segmentbar-redirect"/>
+<aside class="ac-gn-segmentbar" data-strings="{ 'exit': 'Exit', 'view': '{%STOREFRONT%} Store Home', 'segments': { 'smb': 'Business Store Home', 'eduInd': 'Education Store Home', 'other': 'Store Home' } }" dir="ltr" id="ac-gn-segmentbar" lang="en-US"></aside>
+<input class="ac-gn-menustate" id="ac-gn-menustate" type="checkbox"/>
+<nav aria-label="Global" class="no-js" data-analytics-region="global nav" data-hires="false" data-search-defaultlinks-api="/search-services/suggestions/defaultlinks/" data-search-locale="en_US" data-search-suggestions-api="/search-services/suggestions/" data-store-api="https://www.apple.com/shop/bag/status" data-store-locale="us" data-store-root-path="/us" data-www-domain="www.apple.com" dir="ltr" id="ac-globalnav" lang="en-US" role="navigation">
+<div class="ac-gn-content">
+<ul class="ac-gn-header">
+<li class="ac-gn-item ac-gn-menuicon">
+<a class="ac-gn-menuanchor ac-gn-menuanchor-open" href="#ac-gn-menustate" id="ac-gn-menuanchor-open" role="button">
+<span class="ac-gn-menuanchor-label">Global Nav Open Menu</span>
+</a>
+<a class="ac-gn-menuanchor ac-gn-menuanchor-close" href="#" id="ac-gn-menuanchor-close" role="button">
+<span class="ac-gn-menuanchor-label">Global Nav Close Menu</span>
+</a>
+<label aria-hidden="true" class="ac-gn-menuicon-label" for="ac-gn-menustate">
+<span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-top">
+<span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-top"></span>
+</span>
+<span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-bottom">
+<span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-bottom"></span>
+</span>
+</label>
+</li>
+<li class="ac-gn-item ac-gn-apple">
+<a class="ac-gn-link ac-gn-link-apple" data-analytics-title="apple home" href="https://www.apple.com/" id="ac-gn-firstfocus-small">
+<span class="ac-gn-link-text">Apple</span>
+</a>
+</li>
+<li class="ac-gn-item ac-gn-bag ac-gn-bag-small" id="ac-gn-bag-small">
+<div class="ac-gn-bag-wrapper">
+<a aria-label="Shopping Bag" class="ac-gn-link ac-gn-link-bag" data-analytics-click="bag" data-analytics-title="bag" data-string-badge="Shopping Bag with item count :" href="/shop/bag">
+<span class="ac-gn-link-text">Shopping Bag</span>
+</a>
+<span aria-hidden="true" class="ac-gn-bag-badge" data-analytics-click="bag" data-analytics-title="bag">
+<span class="ac-gn-bag-badge-separator"></span>
+<span class="ac-gn-bag-badge-number"></span>
+<span class="ac-gn-bag-badge-unit">+</span>
+</span>
+</div>
+<span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
+</li>
+</ul>
+<div class="ac-gn-search-placeholder-container" role="search">
+<div class="ac-gn-search ac-gn-search-small">
+<a aria-label="Search apple.com" class="ac-gn-link" data-analytics-intrapage-link="" data-analytics-title="search" href="/us/search" id="ac-gn-link-search-small">
+<div class="ac-gn-search-placeholder-bar">
+<div class="ac-gn-search-placeholder-input">
+<div aria-hidden="true" class="ac-gn-search-placeholder-input-text">
+<div class="ac-gn-link-search ac-gn-search-placeholder-input-icon"></div>
+<span class="ac-gn-search-placeholder">Search apple.com</span>
+</div>
+</div>
+<div class="ac-gn-searchview-close ac-gn-searchview-close-small ac-gn-search-placeholder-searchview-close">
+<span aria-hidden="true" class="ac-gn-searchview-close-cancel">Cancel</span>
+</div>
+</div>
+</a>
+</div>
+</div>
+<ul class="ac-gn-list">
+<li class="ac-gn-item ac-gn-apple">
+<a class="ac-gn-link ac-gn-link-apple" data-analytics-title="apple home" href="https://www.apple.com/" id="ac-gn-firstfocus">
+<span class="ac-gn-link-text">Apple</span>
+</a>
+</li>
+<li class="ac-gn-item ac-gn-item-menu ac-gn-store">
+<a class="ac-gn-link ac-gn-link-store" data-analytics-title="store" href="/store">
+<span class="ac-gn-link-text">Store</span>
+</a>
+</li>
+<li class="ac-gn-item ac-gn-item-menu ac-gn-mac">
+<a class="ac-gn-link ac-gn-link-mac" data-analytics-title="mac" href="https://www.apple.com/mac/">
+<span class="ac-gn-link-text">Mac</span>
+</a>
+</li>
+<li class="ac-gn-item ac-gn-item-menu ac-gn-ipad">
+<a class="ac-gn-link ac-gn-link-ipad" data-analytics-title="ipad" href="https://www.apple.com/ipad/">
+<span class="ac-gn-link-text">iPad</span>
+</a>
+</li>
+<li class="ac-gn-item ac-gn-item-menu ac-gn-iphone">
+<a class="ac-gn-link ac-gn-link-iphone" data-analytics-title="iphone" href="https://www.apple.com/iphone/">
+<span class="ac-gn-link-text">iPhone</span>
+</a>
+</li>
+<li class="ac-gn-item ac-gn-item-menu ac-gn-watch">
+<a class="ac-gn-link ac-gn-link-watch" data-analytics-title="watch" href="https://www.apple.com/watch/">
+<span class="ac-gn-link-text">Watch</span>
+</a>
+</li>
+<li class="ac-gn-item ac-gn-item-menu ac-gn-airpods">
+<a class="ac-gn-link ac-gn-link-airpods" data-analytics-title="airpods" href="https://www.apple.com/airpods/">
+<span class="ac-gn-link-text">AirPods</span>
+</a>
+</li>
+<li class="ac-gn-item ac-gn-item-menu ac-gn-tvhome">
+<a class="ac-gn-link ac-gn-link-tvhome" data-analytics-title="tv and home" href="https://www.apple.com/tv-home/">
+<span class="ac-gn-link-text">TV &amp; Home</span>
+</a>
+</li> <li class="ac-gn-item ac-gn-item-menu ac-gn-onlyonapple">
+<a class="ac-gn-link ac-gn-link-onlyonapple" data-analytics-title="only on apple" href="https://www.apple.com/services/">
+<span class="ac-gn-link-text">Only on Apple</span>
+</a>
+</li>
+<li class="ac-gn-item ac-gn-item-menu ac-gn-accessories">
+<a class="ac-gn-link ac-gn-link-accessories current" data-analytics-title="accessories" href="/shop/accessories/all">
+<span class="ac-gn-link-text">Accessories</span>
+</a>
+</li>
+<li class="ac-gn-item ac-gn-item-menu ac-gn-support">
+<a class="ac-gn-link ac-gn-link-support" data-analytics-title="support" href="https://www.apple.com/support/">
+<span class="ac-gn-link-text">Support</span>
+</a>
+</li>
+<li class="ac-gn-item ac-gn-item-menu ac-gn-search" role="search">
+<a aria-label="Search apple.com" class="ac-gn-link ac-gn-link-search" data-analytics-intrapage-link="" data-analytics-title="search" href="/search" id="ac-gn-link-search"></a>
+</li>
+<li class="ac-gn-item ac-gn-bag" id="ac-gn-bag">
+<div class="ac-gn-bag-wrapper">
+<a aria-label="Shopping Bag" class="ac-gn-link ac-gn-link-bag" data-analytics-click="bag" data-analytics-title="bag" data-string-badge="Shopping Bag with item count : {%BAGITEMCOUNT%}" href="/shop/bag">
+<span class="ac-gn-link-text">Shopping Bag</span>
+</a>
+<span aria-hidden="true" class="ac-gn-bag-badge" data-analytics-click="bag" data-analytics-title="bag">
+<span class="ac-gn-bag-badge-separator"></span>
+<span class="ac-gn-bag-badge-number"></span>
+<span class="ac-gn-bag-badge-unit">+</span>
+</span>
+</div>
+<span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
+</li>
+</ul>
+<aside class="ac-gn-searchview" data-analytics-region="search" id="ac-gn-searchview" role="search">
+<div class="ac-gn-searchview-content">
+<div class="ac-gn-searchview-bar">
+<div class="ac-gn-searchview-bar-wrapper">
+<form action="/search" class="ac-gn-searchform" id="ac-gn-searchform" method="get">
+<div class="ac-gn-searchform-wrapper">
+<input aria-autocomplete="list" aria-expanded="true" aria-label="Search apple.com" aria-owns="quicklinks suggestions" autocapitalize="off" autocomplete="off" autocorrect="off" class="ac-gn-searchform-input" id="ac-gn-searchform-input" placeholder="Search apple.com" role="combobox" spellcheck="false" type="text"/>
+<input id="ac-gn-searchform-src" name="src" type="hidden" value="globalnav"/>
+<button aria-label="Submit Search" class="ac-gn-searchform-submit" disabled="" id="ac-gn-searchform-submit" type="submit"> </button>
+<button aria-label="Clear Search" class="ac-gn-searchform-reset" disabled="" id="ac-gn-searchform-reset" type="reset">
+<span class="ac-gn-searchform-reset-background"></span>
+</button>
+</div>
+</form>
+<button aria-label="Cancel Search" class="ac-gn-searchview-close ac-gn-searchview-close-small" id="ac-gn-searchview-close-small">
+<span aria-hidden="true" class="ac-gn-searchview-close-cancel">
+								Cancel
+							</span>
+</button>
+</div>
+</div>
+<aside class="ac-gn-searchresults" data-string-noresults="" data-string-quicklinks="Quick Links" data-string-suggestions="Suggested Searches" id="ac-gn-searchresults"></aside>
+</div>
+<button aria-label="Cancel Search" class="ac-gn-searchview-close" id="ac-gn-searchview-close">
+<span class="ac-gn-searchview-close-wrapper">
+<span class="ac-gn-searchview-close-left"></span>
+<span class="ac-gn-searchview-close-right"></span>
+</span>
+</button>
+</aside>
+<aside class="ac-gn-bagview" data-analytics-region="bag">
+<div class="ac-gn-bagview-scrim">
+<span class="ac-gn-bagview-caret ac-gn-bagview-caret-small"></span>
+</div>
+<div class="ac-gn-bagview-content" id="ac-gn-bagview-content">
+</div>
+</aside>
+</div>
+</nav>
+<div class="ac-gn-blur"></div>
+<div class="ac-gn-curtain" id="ac-gn-curtain"></div>
+<div class="ac-nav-placeholder" id="ac-gn-placeholder"></div>
+<div class="as-search-wrapper" role="main">
+<div id="root"></div>
+</div>
+<script>
+				window.pageLevelData = window.pageLevelData || {};
+				window.pageLevelData.searchResults = window.pageLevelData.searchResults || {};
+					window.pageLevelData.searchResults.tabList = {"tabs":{"items":[{"index":0,"value":{"tabSearchNoResultsTitleText":"Sorry, no matches were found.","isActive":true,"tabLink":{"url":"/search/%D0%A1%D0%B1%D0%B5%D1%80%D0%9C%D0%B5%D0%B3%D0%B0%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%82?src=globalnav&tab=explore","text":"Explore","dataVar":{},"newTab":false,"link":"/search/%D0%A1%D0%B1%D0%B5%D1%80%D0%9C%D0%B5%D0%B3%D0%B0%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%82?src=globalnav&tab=explore"},"key":"explore","tabSearchNoResultsDescText":"Try a new search or use our suggestions."},"first":true,"even":true,"position":1,"last":false},{"index":1,"value":{"tabSearchNoResultsTitleText":"Sorry, no matches were found.","isActive":false,"tabLink":{"url":"/search/%D0%A1%D0%B1%D0%B5%D1%80%D0%9C%D0%B5%D0%B3%D0%B0%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%82?src=globalnav&tab=accessories","text":"Accessories","dataVar":{},"newTab":false,"link":"/search/%D0%A1%D0%B1%D0%B5%D1%80%D0%9C%D0%B5%D0%B3%D0%B0%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%82?src=globalnav&tab=accessories"},"key":"accessories","tabSearchNoResultsDescText":"Try a new search or use our suggestions."},"first":false,"even":false,"position":2,"last":false},{"index":2,"value":{"tabSearchNoResultsTitleText":"Sorry, no matches were found.","isActive":false,"tabLink":{"url":"/search/%D0%A1%D0%B1%D0%B5%D1%80%D0%9C%D0%B5%D0%B3%D0%B0%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%82?src=globalnav&tab=support","text":"Support","dataVar":{},"newTab":false,"link":"/search/%D0%A1%D0%B1%D0%B5%D1%80%D0%9C%D0%B5%D0%B3%D0%B0%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%82?src=globalnav&tab=support"},"key":"support","tabSearchNoResultsDescText":"Try a new search or use our suggestions."},"first":false,"even":true,"position":3,"last":false},{"index":3,"value":{"tabSearchNoResultsTitleText":"Sorry, no matches were found.","isActive":false,"tabLink":{"url":"/search/%D0%A1%D0%B1%D0%B5%D1%80%D0%9C%D0%B5%D0%B3%D0%B0%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%82?src=globalnav&tab=retail","text":"Find a Store","dataVar":{},"newTab":false,"link":"/search/%D0%A1%D0%B1%D0%B5%D1%80%D0%9C%D0%B5%D0%B3%D0%B0%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%82?src=globalnav&tab=retail"},"key":"retail","tabSearchNoResultsDescText":"Enter a city, state, or zip code to find a store.\nOr use our suggestions."},"first":false,"even":false,"position":4,"last":true}],"size":4}};
+					window.pageLevelData.searchResults.searchData = {"sortOptions":{"items":[{"displayKey":"Relevancy","key":"relevancy","link":"s=relevancy","selected":true},{"displayKey":"Popularity","key":"topSellers","link":"s=topSellers","selected":false},{"displayKey":"Newest","key":"newest","link":"s=newest","selected":false},{"displayKey":"Price: Low to High","key":"priceLH","link":"s=priceLH","selected":false},{"displayKey":"Price: High to Low","key":"priceHL","link":"s=priceHL","selected":false}]},"results":{"explore":{"exploreCurated":{"type":"exploreCurated","sectionLabel":null,"tiles":{"items":[{"index":0,"value":{"title":"СберМегаМаркет: онлайн покупки","link":{"text":"","url":""},"feedbackUrl":"/shop/searchfeedback?feedType=SEARCHSELECTED&id=VJLMFRSoSEWcNUN1LMJ_zg&position=0&section=exploreCurated","resultRank":1,"description":"Маркетплейс СберМегаМаркет — это более 5 000 000 товаров от 8 000 продавцов. Заказывайте в приложении всё, что нужно: от смартфона до свежих фруктов.\n \n–...","imageURL":"https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/22/9a/d2/229ad2ef-39cd-bbc1-7d46-c9cbb3f4cf6f/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/350x350.png","navLinks":[{"text":"View more","url":"https://apps.apple.com/us/app/%D1%81%D0%B1%D0%B5%D1%80%D0%BC%D0%B5%D0%B3%D0%B0%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%BA%D0%B8/id1438856489"}],"image":{"alt":"","srcSet":{"src":"https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/22/9a/d2/229ad2ef-39cd-bbc1-7d46-c9cbb3f4cf6f/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/350x350.png"}}},"first":true,"even":true,"position":1,"last":false},{"index":1,"value":{"title":"СберМаркет: Доставка продуктов","link":{"text":"","url":""},"feedbackUrl":"/shop/searchfeedback?feedType=SEARCHSELECTED&id=VJLMFRSoSEWcNUN1LMJ_zg&position=1&section=exploreCurated","resultRank":2,"description":"СберМаркет — это доставка из магазинов №1 в России!*\n\nМы доставляем продукты и товары более чем в 150 городах России — от Калининграда до...","imageURL":"https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/bd/3e/aa/bd3eaa1f-5504-6183-b83e-d563784b85f7/AppIcon-1x_U007emarketing-0-7-0-85-220.png/350x350.png","navLinks":[{"text":"View more","url":"https://apps.apple.com/us/app/%D1%81%D0%B1%D0%B5%D1%80%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82-%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2/id1166642457"}],"image":{"alt":"","srcSet":{"src":"https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/bd/3e/aa/bd3eaa1f-5504-6183-b83e-d563784b85f7/AppIcon-1x_U007emarketing-0-7-0-85-220.png/350x350.png"}}},"first":false,"even":false,"position":2,"last":false},{"index":2,"value":{"title":"Yandex Market","link":{"text":"","url":""},"feedbackUrl":"/shop/searchfeedback?feedType=SEARCHSELECTED&id=VJLMFRSoSEWcNUN1LMJ_zg&position=2&section=exploreCurated","resultRank":3,"description":"Яндекс.Маркет — это покупки с бесплатной доставкой*.\nНа Яндекс.Маркете вас ждут постоянные скидки на тысячи товаров и десятки категорий, от электроники до...","imageURL":"https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/54/04/fb/5404fb62-9e49-0311-3854-aa031adc630f/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/350x350.png","navLinks":[{"text":"View more","url":"https://apps.apple.com/us/app/yandex-market/id1369890634"}],"image":{"alt":"","srcSet":{"src":"https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/54/04/fb/5404fb62-9e49-0311-3854-aa031adc630f/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/350x350.png"}}},"first":false,"even":true,"position":3,"last":false},{"index":3,"value":{"title":"Samokat: Food Delivery","link":{"text":"","url":""},"feedbackUrl":"/shop/searchfeedback?feedType=SEARCHSELECTED&id=VJLMFRSoSEWcNUN1LMJ_zg&position=3&section=exploreCurated","resultRank":4,"description":"Самокат — это онлайн-магазин с бесплатной доставкой от 15 минут. Привезём продукты, готовую еду, товары для быта и косметику. Цены и выбор — как в магазине...","imageURL":"https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/e4/14/e6/e414e638-1611-9657-f81c-4df845d699b9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/350x350.png","navLinks":[{"text":"View more","url":"https://apps.apple.com/us/app/samokat-food-delivery/id1401500803"}],"image":{"alt":"","srcSet":{"src":"https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/e4/14/e6/e414e638-1611-9657-f81c-4df845d699b9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/350x350.png"}}},"first":false,"even":false,"position":4,"last":false},{"index":4,"value":{"title":"Joom. Shopping for every day.","link":{"text":"","url":""},"feedbackUrl":"/shop/searchfeedback?feedType=SEARCHSELECTED&id=VJLMFRSoSEWcNUN1LMJ_zg&position=4&section=exploreCurated","resultRank":5,"description":"Thousands of things to choose from, to suit any taste — all this, plus free shipping, available now on Joom!\n\nJoom is an app for online shopping, used by...","imageURL":"https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/b6/9b/df/b69bdf56-165c-3796-c5db-f7561a34accd/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/350x350.png","navLinks":[{"text":"View more","url":"https://apps.apple.com/us/app/joom-shopping-for-every-day/id1117424833"}],"image":{"alt":"","srcSet":{"src":"https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/b6/9b/df/b69bdf56-165c-3796-c5db-f7561a34accd/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/350x350.png"}}},"first":false,"even":true,"position":5,"last":false},{"index":5,"value":{"title":"СБПэй","link":{"text":"","url":""},"feedbackUrl":"/shop/searchfeedback?feedType=SEARCHSELECTED&id=VJLMFRSoSEWcNUN1LMJ_zg&position=5&section=exploreCurated","resultRank":6,"description":"СБПэй –  мобильное приложение для оплаты товаров и услуг в розничных магазинах и сети интернет c использованием всех поддерживаемых в Системе быстрых...","imageURL":"https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/c5/4b/42/c54b4244-6a7e-353d-d737-9111a2786222/AppIcon-1x_U007emarketing-0-7-0-85-220.png/350x350.png","navLinks":[{"text":"View more","url":"https://apps.apple.com/us/app/%D1%81%D0%B1%D0%BF%D1%8D%D0%B9/id1574648369"}],"image":{"alt":"","srcSet":{"src":"https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/c5/4b/42/c54b4244-6a7e-353d-d737-9111a2786222/AppIcon-1x_U007emarketing-0-7-0-85-220.png/350x350.png"}}},"first":false,"even":false,"position":6,"last":false},{"index":6,"value":{"title":"Пятёрочка Доставка продуктов","link":{"text":"","url":""},"feedbackUrl":"/shop/searchfeedback?feedType=SEARCHSELECTED&id=VJLMFRSoSEWcNUN1LMJ_zg&position=6&section=exploreCurated","resultRank":7,"description":"- 25% на первый заказ от 1000 ₽ по промокоду SALE25!\n\nЗаказ и доставка продуктов и готовой еды в Москве, Санкт-Петербурге, Новосибирске, Казани, Нижнем...","imageURL":"https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/1a/0f/69/1a0f69d5-c0b5-b2cb-9774-d0ff7eb15446/AppIcon-1x_U007emarketing-0-7-0-85-220.png/350x350.png","navLinks":[{"text":"View more","url":"https://apps.apple.com/us/app/%D0%BF%D1%8F%D1%82%D1%91%D1%80%D0%BE%D1%87%D0%BA%D0%B0-%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2/id1471670041"}],"image":{"alt":"","srcSet":{"src":"https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/1a/0f/69/1a0f69d5-c0b5-b2cb-9774-d0ff7eb15446/AppIcon-1x_U007emarketing-0-7-0-85-220.png/350x350.png"}}},"first":false,"even":true,"position":7,"last":false},{"index":7,"value":{"title":"M.Video: бытовая техника","link":{"text":"","url":""},"feedbackUrl":"/shop/searchfeedback?feedType=SEARCHSELECTED&id=VJLMFRSoSEWcNUN1LMJ_zg&position=7&section=exploreCurated","resultRank":8,"description":"«М.Видео» — удобные покупки 24/7! Мы работаем для покупателей каждый день без выходных.\nЧтобы тебе было проще покупать в интернет-магазине любым удобным...","imageURL":"https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/f4/22/e7/f422e7a4-1fd5-fd43-7b58-684bfcceb39b/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/350x350.png","navLinks":[{"text":"View more","url":"https://apps.apple.com/us/app/m-video-%D0%B1%D1%8B%D1%82%D0%BE%D0%B2%D0%B0%D1%8F-%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0/id1329931637"}],"image":{"alt":"","srcSet":{"src":"https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/f4/22/e7/f422e7a4-1fd5-fd43-7b58-684bfcceb39b/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/350x350.png"}}},"first":false,"even":false,"position":8,"last":false},{"index":8,"value":{"title":"OZON: товары, отели, билеты","link":{"text":"","url":""},"feedbackUrl":"/shop/searchfeedback?feedType=SEARCHSELECTED&id=VJLMFRSoSEWcNUN1LMJ_zg&position=8&section=exploreCurated","resultRank":9,"description":"Ozon — самый известный и крупный маркетплейс в России.\nНа Ozon можно заказать всё, что вам нужно: электронику и бытовую технику, детские товары и детское...","imageURL":"https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/59/bc/ba/59bcba0c-fb7b-b849-5929-db4ab0141ac7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/350x350.png","navLinks":[{"text":"View more","url":"https://apps.apple.com/us/app/ozon-%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D1%8B-%D0%BE%D1%82%D0%B5%D0%BB%D0%B8-%D0%B1%D0%B8%D0%BB%D0%B5%D1%82%D1%8B/id407804998"}],"image":{"alt":"","srcSet":{"src":"https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/59/bc/ba/59bcba0c-fb7b-b849-5929-db4ab0141ac7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/350x350.png"}}},"first":false,"even":true,"position":9,"last":false},{"index":9,"value":{"title":"Cpacibo","link":{"text":"","url":""},"feedbackUrl":"/shop/searchfeedback?feedType=SEARCHSELECTED&id=VJLMFRSoSEWcNUN1LMJ_zg&position=9&section=exploreCurated","resultRank":10,"description":"Cpacibo - Доставка еды, продуктов и детского питания\n\nОкунитесь в мир легкости и удобства, насладитесь прекрасным качеством сервиса доставки фермерских...","imageURL":"https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/6b/cb/d2/6bcbd2a5-26c6-998b-687e-1e903d667e57/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/350x350.png","navLinks":[{"text":"View more","url":"https://apps.apple.com/us/app/cpacibo/id1515531745"}],"image":{"alt":"","srcSet":{"src":"https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/6b/cb/d2/6bcbd2a5-26c6-998b-687e-1e903d667e57/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/350x350.png"}}},"first":false,"even":false,"position":10,"last":true}],"size":10},"hasResults":true}}},"pageNumber":1,"numOfPages":1,"pageTitle":"СберМегаМаркет - Apple","partialTitle":"","numberOfFiltersSelected":0,"selectedTab":"explore","totalCountText":"10 results found","tabs":{"explore":{"displayName":"Explore","url":"/shop/searchresults/internalmvc?find=%D0%A1%D0%B1%D0%B5%D1%80%D0%9C%D0%B5%D0%B3%D0%B0%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%82&src=globalnav&tab=explore"},"accessories":{"displayName":"Accessories","url":"/shop/searchresults/internalmvc?find=%D0%A1%D0%B1%D0%B5%D1%80%D0%9C%D0%B5%D0%B3%D0%B0%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%82&src=globalnav&tab=accessories"},"support":{"displayName":"Support","url":"/shop/searchresults/internalmvc?find=%D0%A1%D0%B1%D0%B5%D1%80%D0%9C%D0%B5%D0%B3%D0%B0%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%82&src=globalnav&tab=support"},"retail":{"displayName":"Find a Store","url":"/shop/searchresults/internalmvc?find=%D0%A1%D0%B1%D0%B5%D1%80%D0%9C%D0%B5%D0%B3%D0%B0%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%82&src=globalnav&tab=retail"}},"searchBox":{"formAttrsAction":"/us/search","param":"src=serp","searchResetValue":"Reset"},"suggestions":{"params":{"src":"aos_serp","locale":"en_US"},"url":"/search-services/suggestions/"},"responseError":false,"searchTerm":"СберМегаМаркет","internalSearchUrl":"/shop/searchresults/internalmvc?find=%D0%A1%D0%B1%D0%B5%D1%80%D0%9C%D0%B5%D0%B3%D0%B0%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%82&sel=explore&src=globalnav&tab=explore","hasRecommendations":false,"internalSearchTimeout":90000,"mobile":false,"searchPage":true,"locale":"en_US","ui":{"error":{"noResultsDescription":"Use the tabs above to see more results or try another search term.","noResultsTryNewTitle":"Sorry, no matches were found.","noResultsTitle":"Your search returned no results.","noResultsTryNewDescription":"Please try a different search.","noTabResultsDescription":"There are no products available that fit the selection you requested. If you choose different criteria, you may get more accurate results.","noCategoryResultsDescription":"There are no products available that fit the selection you requested.","errorGettingResultsMessage":"Sorry, there’s been an error. Please try your search again later."},"button":{"moreFiltersText":"More","lessFiltersText":"Less","applyText":"Apply","cancelText":"Cancel","doneText":"Done"},"description":{"previous":"Previous","color":"Available colors:","suggestionsText":"Suggested Searches","quickLinksText":"","hidePanel":"(Hide Filter Panel)","showPanel":"(Show Filter Panel)","filterText":"Filter","resetFilterText":"Reset","sortByText":"Sort By","sortedByText":"","paginationText":"of","submit":"Submit","next":"Next"},"state":{"loading":"Loading…","loaded":"Loading complete.","loadingError":"Error loading results."},"selectedFilters":0},"hasFilters":false,"showFilters":false,"hasPreviousResults":false,"hasNextResults":false,"showPagination":false,"hasResults":true};
+					window.pageLevelData.eolOverlay = "<div class=\"redirect-notification\">\n    <h2 class=\"redirect-notification-header\"><span>Looking for something?</span></h2>\n    <div class=\"redirect-notification-body\"><span><p>We thought so. However, the product you're looking for is no longer available on apple.com.</p><p> Please try another product search.</p></span></div>\n    <button type=\"button\" class=\"redirect-notification-button button rect cancel\">\n        <span><span>OK</span></span>\n    </button>\n</div>";
+
+				
+
+window.GLOBAL_ASSETS = {
+    open: "Open",
+    close: "Close",
+    top: "Top",
+    right: "Right",
+    bottom: "Bottom",
+    left: "Left",
+    next: "Next",
+    previous: "Previous",
+    selected: "Selected",
+    show: "Show",
+    hide: "Hide",
+    play: "Play",
+    pause: "Pause",
+    mute: "",
+    unmute: "Unmute",
+    loading: "Loading",
+    fullscreen: "Show fullscreen",
+    pip: "Show picture-in-picture",
+    airplay: "Show AirPlay",
+    captions: "Show captions",
+    showMore: "Show more",
+    showLess: "Show less",
+    more: "More",
+    less: "Less",
+    item: "Item",
+    image: "Image",
+    video: "Video",
+    edit: "Edit",
+    change: "Change",
+    update: "Update",
+    add: "Add",
+    remove: "Remove",
+    save: "Save",
+    cancel: "Cancel",
+    submit: "Submit",
+    reset: "Reset",
+    opensNewWindow: "(Opens in a new window)",
+    search: "Search",
+    collapse: "Collapse"
+};
+
+
+			</script>
+<div class="rf-search-results-nojs">
+<div class="rf-search-wrapper" role="main">
+<div class="rf-serp-search">
+<div class="rf-serp-search-wrapper">
+<div class="as-l-container">
+<form action="/us/search" class="rf-serp-form">
+<div class="rf-serp-searchbox" region="search">
+<div class="rf-serp-autocomplete">
+<div class="rf-serp-searchbox-wrapper" for="search">
+<label class="visuallyhidden">
+<span></span>
+</label>
+<div class="form-textbox form-textbox-with-button form-textbox-with-righticon">
+<input class="form-textbox-input rf-serp-search-input form-textbox-entered" name="find" type="text" value="СберМегаМаркет"/>
+<span aria-hidden="true" class="form-textbox-label"></span>
+<div class="rf-serp-textbox-lefticon">
+<button type="submit">
+<span class="form-icons form-icons-search15">
+<span class="visuallyhidden">Submit</span>
+</span>
+</button>
+</div>
+<div class="form-textbox-righticon">
+<button class="form-icons form-icons-reset" type="button">
+<span class="visuallyhidden">Reset</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</form>
+</div>
+<div class="rf-serp-search-tabcontainer as-l-container">
+<div class="rf-serp-tabs">
+<div class="rf-serp-tab as-l-container-full-small as-l-container-mobileoverflow rf-serp-searchtabnav-retail">
+<div class="as-l-container-mobileoverflow-content">
+<div class="tabnav rf-serp-search-tabnav">
+<ul class="tabnav-items rf-serp-tabnav-tablist" data-analytics-region="tab" data-core-tabs-tablist="" role="tablist">
+<li class="tabnav-item rf-serp-search-tabnav-item" role="none">
+<a class="tabnav-link rf-serp-search-tabnav-link current" href="/search/%D0%A1%D0%B1%D0%B5%D1%80%D0%9C%D0%B5%D0%B3%D0%B0%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%82?src=globalnav&amp;tab=explore" id="explore" role="tab" tabindex="0">                                                Explore
+                                                <span aria-hidden="true" class="a11y rf-searchtab-hiddentext">
+                                                    search-Explore
+                                                </span>
+</a> </li>
+<li class="tabnav-item rf-serp-search-tabnav-item" role="none">
+<a class="tabnav-link rf-serp-search-tabnav-link" href="/search/%D0%A1%D0%B1%D0%B5%D1%80%D0%9C%D0%B5%D0%B3%D0%B0%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%82?src=globalnav&amp;tab=accessories" id="accessories" role="tab" tabindex="0">                                                Accessories
+                                                <span aria-hidden="true" class="a11y rf-searchtab-hiddentext">
+                                                    search-Accessories
+                                                </span>
+</a> </li>
+<li class="tabnav-item rf-serp-search-tabnav-item" role="none">
+<a class="tabnav-link rf-serp-search-tabnav-link" href="/search/%D0%A1%D0%B1%D0%B5%D1%80%D0%9C%D0%B5%D0%B3%D0%B0%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%82?src=globalnav&amp;tab=support" id="support" role="tab" tabindex="0">                                                Support
+                                                <span aria-hidden="true" class="a11y rf-searchtab-hiddentext">
+                                                    search-Support
+                                                </span>
+</a> </li>
+<li class="tabnav-item rf-serp-search-tabnav-item" role="none">
+<a class="tabnav-link rf-serp-search-tabnav-link" href="/search/%D0%A1%D0%B1%D0%B5%D1%80%D0%9C%D0%B5%D0%B3%D0%B0%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%82?src=globalnav&amp;tab=retail" id="retail" role="tab" tabindex="0">                                                Find a Store
+                                                <span aria-hidden="true" class="a11y rf-searchtab-hiddentext">
+                                                    search-Find a Store
+                                                </span>
+</a> </li>
+</ul>
+</div>
+</div>
+</div>
+<div class="rf-serp-tabnav-container rf-serp-nullsearch-container">
+<div id="explore">
+<div class="rf-serp-explore-details">
+<div class="rf-serp-resultcount">10 results found</div>
+<div aria-labelledby="current-page-pagination" class="rf-serp-explore" role="group">
+<div class="rf-serp-explore-curated" id="exploreCurated" role="list">
+<div class="rf-serp-explore-curated-position-1 rf-serp-curated-product" role="listitem">
+<div class="rf-serp-productimage">
+<img alt="" class="ir rf-serp-explore-image" height="" src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/22/9a/d2/229ad2ef-39cd-bbc1-7d46-c9cbb3f4cf6f/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/350x350.png" width=""/>
+</div>
+<div class="rf-serp-product-description">
+<h2 class="rf-serp-productname">
+                                                СберМегаМаркет: онлайн покупки   
+                                            </h2>
+<p class="rf-serp-productdescription">Маркетплейс СберМегаМаркет — это более 5 000 000 товаров от 8 000 продавцов. Заказывайте в приложении всё, что нужно: от смартфона до свежих фруктов.
+ 
+–...</p>
+<ul class="rf-serp-explore-productoption">
+<li class="rf-serp-productoption-link">
+<a class="icon icon-after icon-chevronright" data-feedback="/shop/searchfeedback?feedType=SEARCHSELECTED&amp;id=VJLMFRSoSEWcNUN1LMJ_zg&amp;position=0&amp;section=exploreCurated" href="https://apps.apple.com/us/app/%D1%81%D0%B1%D0%B5%D1%80%D0%BC%D0%B5%D0%B3%D0%B0%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%BA%D0%B8/id1438856489">View more</a> </li>
+</ul>
+</div>
+</div>
+<div class="rf-serp-explore-curated-position-2 rf-serp-curated-product" role="listitem">
+<div class="rf-serp-productimage">
+<img alt="" class="ir rf-serp-explore-image" height="" src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/bd/3e/aa/bd3eaa1f-5504-6183-b83e-d563784b85f7/AppIcon-1x_U007emarketing-0-7-0-85-220.png/350x350.png" width=""/>
+</div>
+<div class="rf-serp-product-description">
+<h2 class="rf-serp-productname">
+                                                СберМаркет: Доставка продуктов   
+                                            </h2>
+<p class="rf-serp-productdescription">СберМаркет — это доставка из магазинов №1 в России!*
+
+Мы доставляем продукты и товары более чем в 150 городах России — от Калининграда до...</p>
+<ul class="rf-serp-explore-productoption">
+<li class="rf-serp-productoption-link">
+<a class="icon icon-after icon-chevronright" data-feedback="/shop/searchfeedback?feedType=SEARCHSELECTED&amp;id=VJLMFRSoSEWcNUN1LMJ_zg&amp;position=1&amp;section=exploreCurated" href="https://apps.apple.com/us/app/%D1%81%D0%B1%D0%B5%D1%80%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82-%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2/id1166642457">View more</a> </li>
+</ul>
+</div>
+</div>
+<div class="rf-serp-explore-curated-position-3 rf-serp-curated-product" role="listitem">
+<div class="rf-serp-productimage">
+<img alt="" class="ir rf-serp-explore-image" height="" src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/54/04/fb/5404fb62-9e49-0311-3854-aa031adc630f/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/350x350.png" width=""/>
+</div>
+<div class="rf-serp-product-description">
+<h2 class="rf-serp-productname">
+                                                Yandex Market   
+                                            </h2>
+<p class="rf-serp-productdescription">Яндекс.Маркет — это покупки с бесплатной доставкой*.
+На Яндекс.Маркете вас ждут постоянные скидки на тысячи товаров и десятки категорий, от электроники до...</p>
+<ul class="rf-serp-explore-productoption">
+<li class="rf-serp-productoption-link">
+<a class="icon icon-after icon-chevronright" data-feedback="/shop/searchfeedback?feedType=SEARCHSELECTED&amp;id=VJLMFRSoSEWcNUN1LMJ_zg&amp;position=2&amp;section=exploreCurated" href="https://apps.apple.com/us/app/yandex-market/id1369890634">View more</a> </li>
+</ul>
+</div>
+</div>
+<div class="rf-serp-explore-curated-position-4 rf-serp-curated-product" role="listitem">
+<div class="rf-serp-productimage">
+<img alt="" class="ir rf-serp-explore-image" height="" src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/e4/14/e6/e414e638-1611-9657-f81c-4df845d699b9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/350x350.png" width=""/>
+</div>
+<div class="rf-serp-product-description">
+<h2 class="rf-serp-productname">
+                                                Samokat: Food Delivery   
+                                            </h2>
+<p class="rf-serp-productdescription">Самокат — это онлайн-магазин с бесплатной доставкой от 15 минут. Привезём продукты, готовую еду, товары для быта и косметику. Цены и выбор — как в магазине...</p>
+<ul class="rf-serp-explore-productoption">
+<li class="rf-serp-productoption-link">
+<a class="icon icon-after icon-chevronright" data-feedback="/shop/searchfeedback?feedType=SEARCHSELECTED&amp;id=VJLMFRSoSEWcNUN1LMJ_zg&amp;position=3&amp;section=exploreCurated" href="https://apps.apple.com/us/app/samokat-food-delivery/id1401500803">View more</a> </li>
+</ul>
+</div>
+</div>
+<div class="rf-serp-explore-curated-position-5 rf-serp-curated-product" role="listitem">
+<div class="rf-serp-productimage">
+<img alt="" class="ir rf-serp-explore-image" height="" src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/b6/9b/df/b69bdf56-165c-3796-c5db-f7561a34accd/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/350x350.png" width=""/>
+</div>
+<div class="rf-serp-product-description">
+<h2 class="rf-serp-productname">
+                                                Joom. Shopping for every day.   
+                                            </h2>
+<p class="rf-serp-productdescription">Thousands of things to choose from, to suit any taste — all this, plus free shipping, available now on Joom!
+
+Joom is an app for online shopping, used by...</p>
+<ul class="rf-serp-explore-productoption">
+<li class="rf-serp-productoption-link">
+<a class="icon icon-after icon-chevronright" data-feedback="/shop/searchfeedback?feedType=SEARCHSELECTED&amp;id=VJLMFRSoSEWcNUN1LMJ_zg&amp;position=4&amp;section=exploreCurated" href="https://apps.apple.com/us/app/joom-shopping-for-every-day/id1117424833">View more</a> </li>
+</ul>
+</div>
+</div>
+<div class="rf-serp-explore-curated-position-6 rf-serp-curated-product" role="listitem">
+<div class="rf-serp-productimage">
+<img alt="" class="ir rf-serp-explore-image" height="" src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/c5/4b/42/c54b4244-6a7e-353d-d737-9111a2786222/AppIcon-1x_U007emarketing-0-7-0-85-220.png/350x350.png" width=""/>
+</div>
+<div class="rf-serp-product-description">
+<h2 class="rf-serp-productname">
+                                                СБПэй   
+                                            </h2>
+<p class="rf-serp-productdescription">СБПэй –  мобильное приложение для оплаты товаров и услуг в розничных магазинах и сети интернет c использованием всех поддерживаемых в Системе быстрых...</p>
+<ul class="rf-serp-explore-productoption">
+<li class="rf-serp-productoption-link">
+<a class="icon icon-after icon-chevronright" data-feedback="/shop/searchfeedback?feedType=SEARCHSELECTED&amp;id=VJLMFRSoSEWcNUN1LMJ_zg&amp;position=5&amp;section=exploreCurated" href="https://apps.apple.com/us/app/%D1%81%D0%B1%D0%BF%D1%8D%D0%B9/id1574648369">View more</a> </li>
+</ul>
+</div>
+</div>
+<div class="rf-serp-explore-curated-position-7 rf-serp-curated-product" role="listitem">
+<div class="rf-serp-productimage">
+<img alt="" class="ir rf-serp-explore-image" height="" src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/1a/0f/69/1a0f69d5-c0b5-b2cb-9774-d0ff7eb15446/AppIcon-1x_U007emarketing-0-7-0-85-220.png/350x350.png" width=""/>
+</div>
+<div class="rf-serp-product-description">
+<h2 class="rf-serp-productname">
+                                                Пятёрочка Доставка продуктов   
+                                            </h2>
+<p class="rf-serp-productdescription">- 25% на первый заказ от 1000 ₽ по промокоду SALE25!
+
+Заказ и доставка продуктов и готовой еды в Москве, Санкт-Петербурге, Новосибирске, Казани, Нижнем...</p>
+<ul class="rf-serp-explore-productoption">
+<li class="rf-serp-productoption-link">
+<a class="icon icon-after icon-chevronright" data-feedback="/shop/searchfeedback?feedType=SEARCHSELECTED&amp;id=VJLMFRSoSEWcNUN1LMJ_zg&amp;position=6&amp;section=exploreCurated" href="https://apps.apple.com/us/app/%D0%BF%D1%8F%D1%82%D1%91%D1%80%D0%BE%D1%87%D0%BA%D0%B0-%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2/id1471670041">View more</a> </li>
+</ul>
+</div>
+</div>
+<div class="rf-serp-explore-curated-position-8 rf-serp-curated-product" role="listitem">
+<div class="rf-serp-productimage">
+<img alt="" class="ir rf-serp-explore-image" height="" src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/f4/22/e7/f422e7a4-1fd5-fd43-7b58-684bfcceb39b/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/350x350.png" width=""/>
+</div>
+<div class="rf-serp-product-description">
+<h2 class="rf-serp-productname">
+                                                M.Video: бытовая техника   
+                                            </h2>
+<p class="rf-serp-productdescription">«М.Видео» — удобные покупки 24/7! Мы работаем для покупателей каждый день без выходных.
+Чтобы тебе было проще покупать в интернет-магазине любым удобным...</p>
+<ul class="rf-serp-explore-productoption">
+<li class="rf-serp-productoption-link">
+<a class="icon icon-after icon-chevronright" data-feedback="/shop/searchfeedback?feedType=SEARCHSELECTED&amp;id=VJLMFRSoSEWcNUN1LMJ_zg&amp;position=7&amp;section=exploreCurated" href="https://apps.apple.com/us/app/m-video-%D0%B1%D1%8B%D1%82%D0%BE%D0%B2%D0%B0%D1%8F-%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0/id1329931637">View more</a> </li>
+</ul>
+</div>
+</div>
+<div class="rf-serp-explore-curated-position-9 rf-serp-curated-product" role="listitem">
+<div class="rf-serp-productimage">
+<img alt="" class="ir rf-serp-explore-image" height="" src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/59/bc/ba/59bcba0c-fb7b-b849-5929-db4ab0141ac7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/350x350.png" width=""/>
+</div>
+<div class="rf-serp-product-description">
+<h2 class="rf-serp-productname">
+                                                OZON: товары, отели, билеты   
+                                            </h2>
+<p class="rf-serp-productdescription">Ozon — самый известный и крупный маркетплейс в России.
+На Ozon можно заказать всё, что вам нужно: электронику и бытовую технику, детские товары и детское...</p>
+<ul class="rf-serp-explore-productoption">
+<li class="rf-serp-productoption-link">
+<a class="icon icon-after icon-chevronright" data-feedback="/shop/searchfeedback?feedType=SEARCHSELECTED&amp;id=VJLMFRSoSEWcNUN1LMJ_zg&amp;position=8&amp;section=exploreCurated" href="https://apps.apple.com/us/app/ozon-%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D1%8B-%D0%BE%D1%82%D0%B5%D0%BB%D0%B8-%D0%B1%D0%B8%D0%BB%D0%B5%D1%82%D1%8B/id407804998">View more</a> </li>
+</ul>
+</div>
+</div>
+<div class="rf-serp-explore-curated-position-10 rf-serp-curated-product" role="listitem">
+<div class="rf-serp-productimage">
+<img alt="" class="ir rf-serp-explore-image" height="" src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/6b/cb/d2/6bcbd2a5-26c6-998b-687e-1e903d667e57/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/350x350.png" width=""/>
+</div>
+<div class="rf-serp-product-description">
+<h2 class="rf-serp-productname">
+                                                Cpacibo   
+                                            </h2>
+<p class="rf-serp-productdescription">Cpacibo - Доставка еды, продуктов и детского питания
+
+Окунитесь в мир легкости и удобства, насладитесь прекрасным качеством сервиса доставки фермерских...</p>
+<ul class="rf-serp-explore-productoption">
+<li class="rf-serp-productoption-link">
+<a class="icon icon-after icon-chevronright" data-feedback="/shop/searchfeedback?feedType=SEARCHSELECTED&amp;id=VJLMFRSoSEWcNUN1LMJ_zg&amp;position=9&amp;section=exploreCurated" href="https://apps.apple.com/us/app/cpacibo/id1515531745">View more</a> </li>
+</ul>
+</div>
+</div>
+</div>
+<div class="rf-serp-explore-organic" id="exploreOrganic" role="list">
+</div>
+</div>
+</div>
+</div>
+<div id="accessories">
+<div class="rf-accessories-section">
+</div>
+</div>
+<div id="support">
+</div>
+<div id="retail">
+<div class="rf-serp-stores-details">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="as-footnotes" data-nosnippet="">
+<div class="as-footnotes-content">
+<div class="as-footnotes-sosumi">
+<div aria-label="footnotes" class="footnotes" role="list">
+</div>
+
+                †† We approximate your location from your internet IP address by matching it to a geographic region or from the location entered during your previous visit to Apple.
+        </div>
+</div>
+</div>
+<footer class="as-globalfooter no-js" id="apple-footer">
+<div class="as-globalfooter-content">
+<nav aria-label="Breadcrumbs" class="as-globalfooter-breadcrumbs" role="navigation">
+<a class="as-globalfooter-breadcrumbs-home" data-autom="footer" data-display-name="Apple" data-feature-name="Breadcrumb" href="https://www.apple.com/"> <span aria-hidden="true" class="as-globalfooter-breadcrumbs-home-icon"></span>
+<span class="as-globalfooter-breadcrumbs-home-label">Apple</span>
+</a>
+<div class="as-globalfooter-breadcrumbs-path">
+<ol class="as-globalfooter-breadcrumbs-list" typeof="BreadcrumbList">
+<li class="as-globalfooter-breadcrumbs-item" property="itemListElement" typeof="ListItem">
+<span property="item">Search Results</span>
+<meta content="1" property="position"/>
+</li>
+</ol>
+</div>
+</nav>
+<nav aria-label="More Apple Store Links" class="as-globalfooter-directory with-5-columns" role="navigation">
+<div class="as-globalfooter-directory-column">
+<input class="as-globalfooter-directory-column-section-state" id="as-globalfooter-state-section-one" type="checkbox">
+<div class="as-globalfooter-directory-column-section">
+<label class="as-globalfooter-directory-column-section-label" data-asext-action="expand" data-asext-action-toggle="collapse" data-asext-evar="eVar6" data-asext-feature="footer" data-asext-part="Shop and Learn" for="as-globalfooter-state-section-one">
+<h3 class="as-globalfooter-directory-column-section-title">Shop and Learn</h3>
+</label>
+<a class="as-globalfooter-directory-column-section-anchor as-globalfooter-directory-column-section-anchor-open" href="#as-globalfooter-state-section-one"><span class="as-globalfooter-directory-column-section-anchor-label">Open Menusection-one</span></a>
+<a class="as-globalfooter-direcotry-column-section-anchor as-globalfooter-directory-column-section-anchor-close" href="#"><span class="as-globalfooter-directory-column-section-anchor-label">Close Menusection-one</span></a>
+<ul class="as-globalfooter-directory-column-section-list">
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Mac-footer-link" data-display-name="Mac" data-feature-name="Footer Navigation" data-slot-name="section1" href="https://www.apple.com/mac/">                    Mac
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="iPad-footer-link" data-display-name="iPad" data-feature-name="Footer Navigation" data-slot-name="section1" href="https://www.apple.com/ipad/">                    iPad
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="iPhone-footer-link" data-display-name="iPhone" data-feature-name="Footer Navigation" data-slot-name="section1" href="https://www.apple.com/iphone/">                    iPhone
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Watch-footer-link" data-display-name="Watch" data-feature-name="Footer Navigation" data-slot-name="section1" href="https://www.apple.com/watch/">                    Watch
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="AirPods-footer-link" data-display-name="AirPods" data-feature-name="Footer Navigation" data-slot-name="section1" href="https://www.apple.com/airpods/">                    AirPods
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="TV &amp; Home-footer-link" data-display-name="TV &amp; Home" data-feature-name="Footer Navigation" data-slot-name="section1" href="https://www.apple.com/tv/">                    TV &amp; Home
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="AirTag-footer-link" data-display-name="AirTag" data-feature-name="Footer Navigation" data-slot-name="section1" href="https://www.apple.com/airtag/">                    AirTag
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Accessories-footer-link" data-display-name="Accessories" data-feature-name="Footer Navigation" data-slot-name="section1" href="/shop/accessories/all">                    Accessories
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Gift Cards-footer-link" data-display-name="Gift Cards" data-feature-name="Footer Navigation" data-slot-name="section1" href="/shop/gift-cards">                    Gift Cards
+</a> </li>
+</ul>
+</div>
+</input></div>
+<div class="as-globalfooter-directory-column">
+<input class="as-globalfooter-directory-column-section-state" id="as-globalfooter-state-section-two-0" type="checkbox"/>
+<div class="as-globalfooter-directory-column-section">
+<label class="as-globalfooter-directory-column-section-label" data-asext-action="expand" data-asext-action-toggle="collapse" data-asext-evar="eVar6" data-asext-feature="footer" data-asext-part="Services" for="as-globalfooter-state-section-two-0">
+<h3 class="as-globalfooter-directory-column-section-title">Services</h3>
+</label>
+<a class="as-globalfooter-directory-column-section-anchor as-globalfooter-directory-column-section-anchor-open" href="#as-globalfooter-state-section-two-0"><span class="as-globalfooter-directory-column-section-anchor-label">Open Menusection-two-0</span></a>
+<a class="as-globalfooter-direcotry-column-section-anchor as-globalfooter-directory-column-section-anchor-close" href="#"><span class="as-globalfooter-directory-column-section-anchor-label">Close Menusection-two-0</span></a>
+<ul class="as-globalfooter-directory-column-section-list">
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Apple Music-footer-link" data-display-name="Apple Music" data-feature-name="Footer Navigation" data-slot-name="section2" href="https://www.apple.com/apple-music/">                    Apple Music
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Apple TV+-footer-link" data-display-name="Apple TV+" data-feature-name="Footer Navigation" data-slot-name="section2" href="https://www.apple.com/apple-tv-plus/">                    Apple TV+
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Apple Fitness+-footer-link" data-display-name="Apple Fitness+" data-feature-name="Footer Navigation" data-slot-name="section2" href="https://www.apple.com/apple-fitness-plus/">                    Apple Fitness+
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Apple News+ -footer-link" data-display-name="Apple News+ " data-feature-name="Footer Navigation" data-slot-name="section2" href="https://www.apple.com/apple-news/">                    Apple News+ 
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Apple Arcade-footer-link" data-display-name="Apple Arcade" data-feature-name="Footer Navigation" data-slot-name="section2" href="https://www.apple.com/apple-arcade/">                    Apple Arcade
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="iCloud+-footer-link" data-display-name="iCloud+" data-feature-name="Footer Navigation" data-slot-name="section2" href="https://www.apple.com/icloud/">                    iCloud+
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Apple One-footer-link" data-display-name="Apple One" data-feature-name="Footer Navigation" data-slot-name="section2" href="https://www.apple.com/apple-one/">                    Apple One
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Apple Card-footer-link" data-display-name="Apple Card" data-feature-name="Footer Navigation" data-slot-name="section2" href="https://www.apple.com/apple-card/">                    Apple Card
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Apple Books-footer-link" data-display-name="Apple Books" data-feature-name="Footer Navigation" data-slot-name="section2" href="https://www.apple.com/apple-books/">                    Apple Books
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Apple Podcasts-footer-link" data-display-name="Apple Podcasts" data-feature-name="Footer Navigation" data-slot-name="section2" href="https://www.apple.com/apple-podcasts/">                    Apple Podcasts
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="App Store-footer-link" data-display-name="App Store" data-feature-name="Footer Navigation" data-slot-name="section2" href="https://www.apple.com/app-store/">                    App Store
+</a> </li>
+</ul>
+</div>
+<input class="as-globalfooter-directory-column-section-state" id="as-globalfooter-state-section-two-1" type="checkbox"/>
+<div class="as-globalfooter-directory-column-section">
+<label class="as-globalfooter-directory-column-section-label" data-asext-action="expand" data-asext-action-toggle="collapse" data-asext-evar="eVar6" data-asext-feature="footer" data-asext-part="Account" for="as-globalfooter-state-section-two-1">
+<h3 class="as-globalfooter-directory-column-section-title">Account</h3>
+</label>
+<a class="as-globalfooter-directory-column-section-anchor as-globalfooter-directory-column-section-anchor-open" href="#as-globalfooter-state-section-two-1"><span class="as-globalfooter-directory-column-section-anchor-label">Open Menusection-two-1</span></a>
+<a class="as-globalfooter-direcotry-column-section-anchor as-globalfooter-directory-column-section-anchor-close" href="#"><span class="as-globalfooter-directory-column-section-anchor-label">Close Menusection-two-1</span></a>
+<ul class="as-globalfooter-directory-column-section-list">
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Manage Your Apple ID-footer-link" data-display-name="Manage Your Apple ID" data-feature-name="Footer Navigation" data-slot-name="section2" href="https://appleid.apple.com">                    Manage Your Apple ID
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Apple Store Account-footer-link" data-display-name="Apple Store Account" data-feature-name="Footer Navigation" data-slot-name="section2" href="https://secure.store.apple.com/shop/account/home">                    Apple Store Account
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="iCloud.com-footer-link" data-display-name="iCloud.com" data-feature-name="Footer Navigation" data-slot-name="section2" href="https://www.icloud.com">                    iCloud.com
+</a> </li>
+</ul>
+</div>
+</div>
+<div class="as-globalfooter-directory-column">
+<input class="as-globalfooter-directory-column-section-state" id="as-globalfooter-state-section-three" type="checkbox"/>
+<div class="as-globalfooter-directory-column-section">
+<label class="as-globalfooter-directory-column-section-label" data-asext-action="expand" data-asext-action-toggle="collapse" data-asext-evar="eVar6" data-asext-feature="footer" data-asext-part="Apple Store" for="as-globalfooter-state-section-three">
+<h3 class="as-globalfooter-directory-column-section-title">Apple Store</h3>
+</label>
+<a class="as-globalfooter-directory-column-section-anchor as-globalfooter-directory-column-section-anchor-open" href="#as-globalfooter-state-section-three"><span class="as-globalfooter-directory-column-section-anchor-label">Open Menusection-three</span></a>
+<a class="as-globalfooter-direcotry-column-section-anchor as-globalfooter-directory-column-section-anchor-close" href="#"><span class="as-globalfooter-directory-column-section-anchor-label">Close Menusection-three</span></a>
+<ul class="as-globalfooter-directory-column-section-list">
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Find a Store-footer-link" data-display-name="Find a Store" data-feature-name="Footer Navigation" data-slot-name="section3" href="https://www.apple.com/retail/">                    Find a Store
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Genius Bar-footer-link" data-display-name="Genius Bar" data-feature-name="Footer Navigation" data-slot-name="section3" href="https://www.apple.com/retail/geniusbar/">                    Genius Bar
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Today at Apple-footer-link" data-display-name="Today at Apple" data-feature-name="Footer Navigation" data-slot-name="section3" href="https://www.apple.com/retail/learn/">                    Today at Apple
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Apple Camp-footer-link" data-display-name="Apple Camp" data-feature-name="Footer Navigation" data-slot-name="section3" href="https://www.apple.com/today/camp/">                    Apple Camp
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Apple Store App-footer-link" data-display-name="Apple Store App" data-feature-name="Footer Navigation" data-slot-name="section3" href="https://itunes.apple.com/us/app/apple-store/id375380948?mt=8">                    Apple Store App
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Refurbished and Clearance-footer-link" data-display-name="Refurbished and Clearance" data-feature-name="Footer Navigation" data-slot-name="section3" href="/shop/refurbished">                    Refurbished and Clearance
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Financing-footer-link" data-display-name="Financing" data-feature-name="Footer Navigation" data-slot-name="section3" href="/shop/browse/finance/PaypalFinancingLandingPage">                    Financing
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Apple Trade In-footer-link" data-display-name="Apple Trade In" data-feature-name="Footer Navigation" data-slot-name="section3" href="/shop/trade-in">                    Apple Trade In
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Order Status-footer-link" data-display-name="Order Status" data-feature-name="Footer Navigation" data-slot-name="section3" href="https://secure.store.apple.com/shop/order/list">                    Order Status
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Shopping Help-footer-link" data-display-name="Shopping Help" data-feature-name="Footer Navigation" data-slot-name="section3" href="/shop/help">                    Shopping Help
+</a> </li>
+</ul>
+</div>
+</div>
+<div class="as-globalfooter-directory-column">
+<input class="as-globalfooter-directory-column-section-state" id="as-globalfooter-state-section-four-0" type="checkbox"/>
+<div class="as-globalfooter-directory-column-section">
+<label class="as-globalfooter-directory-column-section-label" data-asext-action="expand" data-asext-action-toggle="collapse" data-asext-evar="eVar6" data-asext-feature="footer" data-asext-part="For Business" for="as-globalfooter-state-section-four-0">
+<h3 class="as-globalfooter-directory-column-section-title">For Business</h3>
+</label>
+<a class="as-globalfooter-directory-column-section-anchor as-globalfooter-directory-column-section-anchor-open" href="#as-globalfooter-state-section-four-0"><span class="as-globalfooter-directory-column-section-anchor-label">Open Menusection-four-0</span></a>
+<a class="as-globalfooter-direcotry-column-section-anchor as-globalfooter-directory-column-section-anchor-close" href="#"><span class="as-globalfooter-directory-column-section-anchor-label">Close Menusection-four-0</span></a>
+<ul class="as-globalfooter-directory-column-section-list">
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Apple and Business-footer-link" data-display-name="Apple and Business" data-feature-name="Footer Navigation" data-slot-name="section4" href="https://www.apple.com/business/">                    Apple and Business
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Shop for Business-footer-link" data-display-name="Shop for Business" data-feature-name="Footer Navigation" data-slot-name="section4" href="https://www.apple.com/retail/business/">                    Shop for Business
+</a> </li>
+</ul>
+</div>
+<input class="as-globalfooter-directory-column-section-state" id="as-globalfooter-state-section-four-1" type="checkbox"/>
+<div class="as-globalfooter-directory-column-section">
+<label class="as-globalfooter-directory-column-section-label" data-asext-action="expand" data-asext-action-toggle="collapse" data-asext-evar="eVar6" data-asext-feature="footer" data-asext-part="For Education" for="as-globalfooter-state-section-four-1">
+<h3 class="as-globalfooter-directory-column-section-title">For Education</h3>
+</label>
+<a class="as-globalfooter-directory-column-section-anchor as-globalfooter-directory-column-section-anchor-open" href="#as-globalfooter-state-section-four-1"><span class="as-globalfooter-directory-column-section-anchor-label">Open Menusection-four-1</span></a>
+<a class="as-globalfooter-direcotry-column-section-anchor as-globalfooter-directory-column-section-anchor-close" href="#"><span class="as-globalfooter-directory-column-section-anchor-label">Close Menusection-four-1</span></a>
+<ul class="as-globalfooter-directory-column-section-list">
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Apple and Education-footer-link" data-display-name="Apple and Education" data-feature-name="Footer Navigation" data-slot-name="section4" href="https://www.apple.com/education/">                    Apple and Education
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Shop for K-12-footer-link" data-display-name="Shop for K-12" data-feature-name="Footer Navigation" data-slot-name="section4" href="https://www.apple.com/education/k12/how-to-buy/">                    Shop for K-12
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Shop for College-footer-link" data-display-name="Shop for College" data-feature-name="Footer Navigation" data-slot-name="section4" href="/shop/education-pricing">                    Shop for College
+</a> </li>
+</ul>
+</div>
+<input class="as-globalfooter-directory-column-section-state" id="as-globalfooter-state-section-four-2" type="checkbox"/>
+<div class="as-globalfooter-directory-column-section">
+<label class="as-globalfooter-directory-column-section-label" data-asext-action="expand" data-asext-action-toggle="collapse" data-asext-evar="eVar6" data-asext-feature="footer" data-asext-part="For Healthcare" for="as-globalfooter-state-section-four-2">
+<h3 class="as-globalfooter-directory-column-section-title">For Healthcare</h3>
+</label>
+<a class="as-globalfooter-directory-column-section-anchor as-globalfooter-directory-column-section-anchor-open" href="#as-globalfooter-state-section-four-2"><span class="as-globalfooter-directory-column-section-anchor-label">Open Menusection-four-2</span></a>
+<a class="as-globalfooter-direcotry-column-section-anchor as-globalfooter-directory-column-section-anchor-close" href="#"><span class="as-globalfooter-directory-column-section-anchor-label">Close Menusection-four-2</span></a>
+<ul class="as-globalfooter-directory-column-section-list">
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Apple in Healthcare-footer-link" data-display-name="Apple in Healthcare" data-feature-name="Footer Navigation" data-slot-name="section4" href="https://www.apple.com/healthcare/">                    Apple in Healthcare
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Health on Apple Watch-footer-link" data-display-name="Health on Apple Watch" data-feature-name="Footer Navigation" data-slot-name="section4" href="https://www.apple.com/healthcare/apple-watch/">                    Health on Apple Watch
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Health Records on iPhone-footer-link" data-display-name="Health Records on iPhone" data-feature-name="Footer Navigation" data-slot-name="section4" href="https://www.apple.com/healthcare/health-records/">                    Health Records on iPhone
+</a> </li>
+</ul>
+</div>
+<input class="as-globalfooter-directory-column-section-state" id="as-globalfooter-state-section-four-3" type="checkbox"/>
+<div class="as-globalfooter-directory-column-section">
+<label class="as-globalfooter-directory-column-section-label" data-asext-action="expand" data-asext-action-toggle="collapse" data-asext-evar="eVar6" data-asext-feature="footer" data-asext-part="For Government" for="as-globalfooter-state-section-four-3">
+<h3 class="as-globalfooter-directory-column-section-title">For Government</h3>
+</label>
+<a class="as-globalfooter-directory-column-section-anchor as-globalfooter-directory-column-section-anchor-open" href="#as-globalfooter-state-section-four-3"><span class="as-globalfooter-directory-column-section-anchor-label">Open Menusection-four-3</span></a>
+<a class="as-globalfooter-direcotry-column-section-anchor as-globalfooter-directory-column-section-anchor-close" href="#"><span class="as-globalfooter-directory-column-section-anchor-label">Close Menusection-four-3</span></a>
+<ul class="as-globalfooter-directory-column-section-list">
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Shop for Government-footer-link" data-display-name="Shop for Government" data-feature-name="Footer Navigation" data-slot-name="section4" href="https://www.apple.com/r/store/government">                    Shop for Government
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Shop for Veterans and Military-footer-link" data-display-name="Shop for Veterans and Military" data-feature-name="Footer Navigation" data-slot-name="section4" href="/shop/browse/home/veterans_military">                    Shop for Veterans and Military
+</a> </li>
+</ul>
+</div>
+</div>
+<div class="as-globalfooter-directory-column">
+<input class="as-globalfooter-directory-column-section-state" id="as-globalfooter-state-section-five-0" type="checkbox"/>
+<div class="as-globalfooter-directory-column-section">
+<label class="as-globalfooter-directory-column-section-label" data-asext-action="expand" data-asext-action-toggle="collapse" data-asext-evar="eVar6" data-asext-feature="footer" data-asext-part="Apple Values" for="as-globalfooter-state-section-five-0">
+<h3 class="as-globalfooter-directory-column-section-title">Apple Values</h3>
+</label>
+<a class="as-globalfooter-directory-column-section-anchor as-globalfooter-directory-column-section-anchor-open" href="#as-globalfooter-state-section-five-0"><span class="as-globalfooter-directory-column-section-anchor-label">Open Menusection-five-0</span></a>
+<a class="as-globalfooter-direcotry-column-section-anchor as-globalfooter-directory-column-section-anchor-close" href="#"><span class="as-globalfooter-directory-column-section-anchor-label">Close Menusection-five-0</span></a>
+<ul class="as-globalfooter-directory-column-section-list">
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Accessibility-footer-link" data-display-name="Accessibility" data-feature-name="Footer Navigation" data-slot-name="section5" href="https://www.apple.com/accessibility/">                    Accessibility
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Education-footer-link" data-display-name="Education" data-feature-name="Footer Navigation" data-slot-name="section5" href="https://www.apple.com/education/connectED/">                    Education
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Environment-footer-link" data-display-name="Environment" data-feature-name="Footer Navigation" data-slot-name="section5" href="https://www.apple.com/environment/">                    Environment
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Inclusion and Diversity-footer-link" data-display-name="Inclusion and Diversity" data-feature-name="Footer Navigation" data-slot-name="section5" href="https://www.apple.com/diversity/">                    Inclusion and Diversity
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Privacy-footer-link" data-display-name="Privacy" data-feature-name="Footer Navigation" data-slot-name="section5" href="https://www.apple.com/privacy/">                    Privacy
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Racial Equity and Justice-footer-link" data-display-name="Racial Equity and Justice" data-feature-name="Footer Navigation" data-slot-name="section5" href="https://www.apple.com/racial-equity-justice-initiative/">                    Racial Equity and Justice
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Supplier Responsibility-footer-link" data-display-name="Supplier Responsibility" data-feature-name="Footer Navigation" data-slot-name="section5" href="https://www.apple.com/supplier-responsibility/">                    Supplier Responsibility
+</a> </li>
+</ul>
+</div>
+<input class="as-globalfooter-directory-column-section-state" id="as-globalfooter-state-section-five-1" type="checkbox"/>
+<div class="as-globalfooter-directory-column-section">
+<label class="as-globalfooter-directory-column-section-label" data-asext-action="expand" data-asext-action-toggle="collapse" data-asext-evar="eVar6" data-asext-feature="footer" data-asext-part="About Apple" for="as-globalfooter-state-section-five-1">
+<h3 class="as-globalfooter-directory-column-section-title">About Apple</h3>
+</label>
+<a class="as-globalfooter-directory-column-section-anchor as-globalfooter-directory-column-section-anchor-open" href="#as-globalfooter-state-section-five-1"><span class="as-globalfooter-directory-column-section-anchor-label">Open Menusection-five-1</span></a>
+<a class="as-globalfooter-direcotry-column-section-anchor as-globalfooter-directory-column-section-anchor-close" href="#"><span class="as-globalfooter-directory-column-section-anchor-label">Close Menusection-five-1</span></a>
+<ul class="as-globalfooter-directory-column-section-list">
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Newsroom-footer-link" data-display-name="Newsroom" data-feature-name="Footer Navigation" data-slot-name="section5" href="https://www.apple.com/newsroom/">                    Newsroom
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Apple Leadership-footer-link" data-display-name="Apple Leadership" data-feature-name="Footer Navigation" data-slot-name="section5" href="https://www.apple.com/leadership/">                    Apple Leadership
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Career Opportunities-footer-link" data-display-name="Career Opportunities" data-feature-name="Footer Navigation" data-slot-name="section5" href="https://www.apple.com/jobs/us/">                    Career Opportunities
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Investors-footer-link" data-display-name="Investors" data-feature-name="Footer Navigation" data-slot-name="section5" href="https://investor.apple.com">                    Investors
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Ethics &amp; Compliance-footer-link" data-display-name="Ethics &amp; Compliance" data-feature-name="Footer Navigation" data-slot-name="section5" href="https://www.apple.com/compliance">                    Ethics &amp; Compliance
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Events-footer-link" data-display-name="Events" data-feature-name="Footer Navigation" data-slot-name="section5" href="https://www.apple.com/apple-events/">                    Events
+</a> </li>
+<li class="as-globalfooter-directory-column-section-item">
+<a class="as-globalfooter-directory-column-section-link" data-autom="Contact Apple-footer-link" data-display-name="Contact Apple" data-feature-name="Footer Navigation" data-slot-name="section5" href="https://www.apple.com/contact/">                    Contact Apple
+</a> </li>
+</ul>
+</div>
+</div>
+</nav>
+<section class="as-globalfooter-mini" data-nosnippet="">
+<div class="as-globalfooter-mini-shop">
+<p>More ways to shop: <span class="nowrap"><a data-display-name="Find an Apple Store" data-feature-name="Footer Navigation" data-slot-name="footerConfig" href="https://www.apple.com/retail">Find an Apple Store</a></span> or <a data-display-name="other retailer" data-feature-name="Footer Navigation" data-slot-name="footerConfig" href="https://locate.apple.com">other retailer</a> near you. Or <span class="nowrap">call <span>1‑800‑MY‑APPLE</span></span>.</p>
+</div>
+<div class="as-globalfooter-mini-locale">
+<a class="as-globalfooter-mini-locale-link" data-autom="footer" data-display-name="Country Selector" data-feature-name="Footer Navigation" data-slot-name="footerConfig" href="https://www.apple.com/choose-your-country">                            United States
+</a> </div>
+<div class="as-globalfooter-mini-legal">
+<div class="as-globalfooter-mini-legal-copyright">
+                    Copyright © 2022 Apple Inc.  All rights reserved.
+                </div>
+<div class="as-globalfooter-mini-legal-links">
+<a class="as-globalfooter-mini-legal-link" data-autom="footer" data-display-name="Privacy Policy" data-feature-name="Footer Navigation" data-slot-name="footerConfig" href="https://www.apple.com/privacy/privacy-policy">Privacy Policy</a><a class="as-globalfooter-mini-legal-link" data-autom="footer" data-display-name="Terms of Use" data-feature-name="Footer Navigation" data-slot-name="footerConfig" href="https://apple.com/legal/internet-services/terms/site.html">Terms of Use</a><a class="as-globalfooter-mini-legal-link" data-autom="footer" data-display-name="Sales and Refunds" data-feature-name="Footer Navigation" data-slot-name="footerConfig" href="/shop/open/salespolicies" target="new">Sales and Refunds</a><a class="as-globalfooter-mini-legal-link" data-autom="footer" data-display-name="Legal" data-feature-name="Footer Navigation" data-slot-name="footerConfig" href="https://apple.com/legal">Legal</a><a class="as-globalfooter-mini-legal-link" data-autom="footer" data-display-name="Sitemap" data-feature-name="Footer Navigation" data-slot-name="footerConfig" href="/shop/browse/sitemap">Site Map</a> </div>
+</div>
+</section>
+</div>
+</footer>
+</div>
+<script>dciddstr = '504732bf231d24819e610fc258b21b3315acd335705190de2cd6d952a9730a463d96113655b203ff164fa0658a16cf2d74e03d10c3a83cecc85cce43eac1f3d7fc502572113e024ce5b3f4be8cd8ab8f1dbc236b47106051c802d09ffe5756b31a8c6f9ad3ab9b63f3c0139f1ed1874078591fb6c2b9f05b6638a8839766a4492cb0f8f56c7424bcb7aabf8ab76dda8d68f2e49305f81ab2b48ac1ab8f6b171e38804b28fd99caa211bf96d0c0997d4f3232d9bf4f6e4cb4620b0bff39e3559f7d9d4382233db6d6a09d89bd49b8f04ae54769b776dd0dbfdf3142ac2c95afe6d6d4adbe8fa2791c35864180372b33a785536b333bf9d24950a50e849cb3624dea8c076b103855b27d751128dcccf935d92eaf41b4985c871b855c7b01c24c8630d2993e5c6e7957905e14aa7e6bed07f3df3ecc9e133f9fe9beee5fd85c6dfc02412bed849036ed95031bf0dc240e47459b15475681e94858b370ff8f85d76b429526ca7872a5c07c5cb62d18ffa080ae6bc8d214eee6fc4775c21cf1ed3c0dcb145fbcb5775c48bc6be873f488cd85befc62139dacdee723ff67f3f6a64116760489c1261d55f4fed4ec47f065a0c90ce0c76dd8647028890217d7e40723ea8bed5148604944994dcfeab2337ce7b3a89190b8c314e48ebdee9f878ebfafe97c11022bfe8e09f1a046ce3d0fc0755cb197b9d24408ab22c74d222213159f545cb13230ff1e1f1b49728a2e7a799ca4e3f35b456d203d01451d3de53f85b5b5a89f63cad26de0a24604574b40cd53db9cc67ca8d8c60dd5e8a9523c48c15a290dc96e65bfb9a60c08e5b16ef920ee4a360f2319eb2379778d';</script>
+</body>
+</html>

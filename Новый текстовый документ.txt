@@ -1,0 +1,17 @@
+попытка пройтись по страницам:
+https://www.google.ru/search?q=а&newwindow=1&sxsrf=ALiCzsbb-3B51mwvLp5Jx-83H71ngz1h9g%3A1664285715761&source=hp&ei=E_wyY6HFK8mMxc8P9JOogAc&iflsig=AJiK0e8AAAAAYzMKI-6NCwDGDU254yaQHXT7CvVerSf-&ved=0ahUKEwjhmo-3i7X6AhVJRvEDHfQJCnAQ4dUDCAc&uact=5&oq=а&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyCwgAEIAEELEDEIMBMgUIABCABDILCAAQgAQQsQMQgwEyCwgAEIAEELEDEIMBMgsIABCABBCxAxCDATIFCAAQgAQyEQguEIAEELEDEIMBEMcBENEDMgsIABCABBCxAxCDATILCAAQgAQQsQMQgwFQAFgAYO8DaABwAHgAgAFuiAFukgEDMC4xmAEAoAEB&sclient=gws-wiz
+
+https://www.google.ru/search?q=а&newwindow=1&sxsrf=ALiCzsZHDw8Xs9HkdIN9FGdkvjc-v3RUlA:1664285718379&ei=FvwyY9zhFoX1qwHei6rYBA&start=10&sa=N&ved=2ahUKEwjcxLG4i7X6AhWF-ioKHd6FCksQ8tMDegQIAhBA&cshid=1664285729920574&biw=1536&bih=750&dpr=1.25
+
+
+
+Димина ссылка:
+https://www.google.com/search?q=aa+filetype:pdf&newwindow=1&sxsrf=ACYBGNQryewtyEL9OMrCRU_ekXeBuDXy_Q:1578131725873&ei=DWEQXrb6NMT16QSVgLeQCg&start=00&sa=N&ved=2ahUKEwj2tLfn1unmAhXEepoKHRXADaIQ8tMDegQICxAw&biw=1920&bih=981
+
+https://www.google.com/search?q=aa+filetype:pdf&newwindow=1&sxsrf=ACYBGNQryewtyEL9OMrCRU_ekXeBuDXy_Q:1578131725873&ei=DWEQXrb6NMT16QSVgLeQCg&start=10&sa=N&ved=2ahUKEwj2tLfn1unmAhXEepoKHRXADaIQ8tMDegQICxAw&biw=1920&bih=981
+
+https://www.google.com/search?q=aa+filetype:pdf&newwindow=1&sxsrf=ACYBGNQryewtyEL9OMrCRU_ekXeBuDXy_Q:1578131725873&ei=DWEQXrb6NMT16QSVgLeQCg&start=20&sa=N&ved=2ahUKEwj2tLfn1unmAhXEepoKHRXADaIQ8tMDegQICxAw&biw=1920&bih=981
+
+https://www.google.com/search?q=aa+filetype:pdf&newwindow=1&sxsrf=ACYBGNQryewtyEL9OMrCRU_ekXeBuDXy_Q:1578131725873&ei=DWEQXrb6NMT16QSVgLeQCg&start=30&sa=N&ved=2ahUKEwj2tLfn1unmAhXEepoKHRXADaIQ8tMDegQICxAw&biw=1920&bih=981
+
+https://www.google.com/search?q=aa+filetype:pdf&newwindow=1&sxsrf=ACYBGNQryewtyEL9OMrCRU_ekXeBuDXy_Q:1578131725873&ei=DWEQXrb6NMT16QSVgLeQCg&start=40&sa=N&ved=2ahUKEwj2tLfn1unmAhXEepoKHRXADaIQ8tMDegQICxAw&biw=1920&bih=981
