@@ -1,16 +1,12 @@
 from pprint import pprint
 import pandas as pd
-# from bs4 import BeautifulSoup
-from app_store_scraper import AppStore
-from pandas import ExcelWriter
 
 
 def parser_google_play(application_name):
-    application_name = edit_app_name(application_name)
+    # application_name = edit_app_name(application_name)
     create_excel_file(application_name)
-    writing_to_csv(application_name,
-                   [{'user_name': 'user_name', 'review': 'review', 'source': 'source', 'date': 'date', 'rating': '5'},
-                    {'user_name': 'user_name', 'review': 'review', 'source': 'source', 'date': 'date', 'rating': '3'}])
+    reviews = [{'user_name': 'user_name', 'review': 'review', 'source': 'source', 'date': 'date', 'rating': '1'},
+               {'user_name': 'user_name', 'review': 'review', 'source': 'source', 'date': 'date', 'rating': '2'}]
     '''result = search(
         "best Pikachu game",
         lang="en",  # defaults to 'en'
@@ -29,11 +25,13 @@ def parser_google_play(application_name):
         count=200
     )
     print(app_reviews)'''
-    return 0
+    return reviews
 
 
 def parser_apple(application_name):
-    application_name = edit_app_name(application_name)
+    reviews = [{'user_name': 'user_name', 'review': 'review', 'source': 'source', 'date': 'date', 'rating': '3'},
+               {'user_name': 'user_name', 'review': 'review', 'source': 'source', 'date': 'date', 'rating': '4'}]
+    '''application_name = edit_app_name(application_name)
     print(application_name)
     # appstore_app = AppStore(country="ru", app_name="sbermegamarket", app_id=946099227)
     appstore_app = AppStore(country="ru", app_name=f"{application_name}")
@@ -48,9 +46,8 @@ def parser_apple(application_name):
         dt = review_data['date']
         date = f'{dt.day}-{dt.month}-{dt.year}'
         rating = review_data['rating']
-        reviews.append({'user_name': user_name, 'review': review, 'source': source, 'date': date, 'rating': rating})
-    writing_to_csv(application_name, reviews)
-    return 0
+        reviews.append({'user_name': user_name, 'review': review, 'source': source, 'date': date, 'rating': rating})'''
+    return reviews
 
 
 def edit_app_name(application_name):
@@ -68,20 +65,28 @@ def create_excel_file(application_name):
     df.to_excel(f, index=False)
 
 
-def writing_to_csv(application_name, dict_reviews):
+def writing_to_csv(reviews_app1, reviews_app2, application_name):
+    for review_app2 in reviews_app2:
+        reviews_app1.append(review_app2)
+    #all_reviews_app = [reviews_app1, ]
     f = f"{application_name}.xlsx"
-    df = pd.DataFrame(dict_reviews)
+    df = pd.DataFrame(reviews_app1)
     # df.to_excel(f, index=False)
-    with ExcelWriter(f, mode="a", engine="openpyxl", if_sheet_exists="overlay") as writer:
-        df.to_excel(writer, sheet_name="Sheet1", index=False, header=None)
+    # xlsx = pd.ExcelFile(f"{application_name}.xlsx")
+    # df1 = pd.read_excel(xlsx, "Sheet1")
+    # result = pd.concat([df1, df2])
+    # print(result)
+    df.to_excel(f, index=False)
+    # with ExcelWriter(f, mode="a", engine="openpyxl", if_sheet_exists="overlay") as writer:
+    #    df.to_excel(writer, sheet_name="Sheet1", index=False, header=None)
 
 
 if __name__ == '__main__':
     # здесь config
     # print("Введите название приложения и нажмите Enter: ")
     # request = input()
-    app_name = 'СберМегаМаркет'
-    parser_google_play(app_name)
-    parser_google_play(app_name)
-    # parser_apple(app_name)
+    app_name = edit_app_name('СберМегаМаркет')
+    reviews_app_store1 = parser_google_play(app_name)
+    reviews_app_store2 = parser_apple(app_name)
+    writing_to_csv(reviews_app_store1, reviews_app_store2, app_name)
     # parser_apple(app_name)
