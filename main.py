@@ -1,10 +1,7 @@
-from pprint import pprint
 import pandas as pd
 
 
 def parser_google_play(application_name):
-    # application_name = edit_app_name(application_name)
-    create_excel_file(application_name)
     reviews = [{'user_name': 'user_name', 'review': 'review', 'source': 'source', 'date': 'date', 'rating': '1'},
                {'user_name': 'user_name', 'review': 'review', 'source': 'source', 'date': 'date', 'rating': '2'}]
     '''result = search(
@@ -59,26 +56,14 @@ def edit_app_name(application_name):
     return ''.join([alphabet.get(f"{letter}") for letter in application_name.replace(' ', '').lower()])
 
 
-def create_excel_file(application_name):
-    f = f"{application_name}.xlsx"
-    df = pd.DataFrame(columns=['user_name', 'review', 'source', 'date', 'rating'])
-    df.to_excel(f, index=False)
-
-
 def writing_to_csv(reviews_app1, reviews_app2, application_name):
+    f = f"{application_name}.xlsx"
+
     for review_app2 in reviews_app2:
         reviews_app1.append(review_app2)
-    #all_reviews_app = [reviews_app1, ]
-    f = f"{application_name}.xlsx"
-    df = pd.DataFrame(reviews_app1)
-    # df.to_excel(f, index=False)
-    # xlsx = pd.ExcelFile(f"{application_name}.xlsx")
-    # df1 = pd.read_excel(xlsx, "Sheet1")
-    # result = pd.concat([df1, df2])
-    # print(result)
+
+    df = pd.DataFrame(reviews_app1, columns=['user_name', 'review', 'source', 'date', 'rating'])
     df.to_excel(f, index=False)
-    # with ExcelWriter(f, mode="a", engine="openpyxl", if_sheet_exists="overlay") as writer:
-    #    df.to_excel(writer, sheet_name="Sheet1", index=False, header=None)
 
 
 if __name__ == '__main__':
@@ -89,4 +74,3 @@ if __name__ == '__main__':
     reviews_app_store1 = parser_google_play(app_name)
     reviews_app_store2 = parser_apple(app_name)
     writing_to_csv(reviews_app_store1, reviews_app_store2, app_name)
-    # parser_apple(app_name)
