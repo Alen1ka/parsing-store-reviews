@@ -1,13 +1,12 @@
 import pandas as pd
-from google_play_scraper import app, Sort, reviews
-from app_store_scraper import AppStore
+# from google_play_scraper import app, Sort, reviews
+# from app_store_scraper import AppStore
 from pprint import pprint
-from app_store_scraper import Podcast
-from itunes_app_scraper.scraper import AppStoreScraper
+# from app_store_scraper import Podcast
+# from itunes_app_scraper.scraper import AppStoreScraper
 import numpy as np
 import json
-from bs4 import BeautifulSoup
-import requests
+# import requests
 
 
 def parser(user_request):
@@ -15,7 +14,7 @@ def parser(user_request):
     df = pd.DataFrame(columns=['user_name', 'review', 'source', 'date', 'rating'])
     df.to_csv(f, mode='w', index=False)
 
-    parser_google_play(user_request)
+    # parser_google_play(user_request)
     # parser_apple(user_request)
 
     # dict_reviews = ['Baked', 'Beans', 'shop', '23.03.1222', '2']
@@ -23,7 +22,7 @@ def parser(user_request):
 
 
 def parser_google_play(user_request):
-    result = app(
+    '''result = app(
         'com.nianticlabs.pokemongo',
         lang='ru',  # defaults to 'en'
         country='ru'  # defaults to 'us'
@@ -44,18 +43,12 @@ def parser_google_play(user_request):
         'com.fantome.penguinisle',
         continuation_token=continuation_token  # defaults to None(load from the beginning)
     )
-    print(result)
+    print(result)'''
     return 0
 
 
 def parser_apple(user_request):
-    '''scraper = AppStoreScraper()
-    results = scraper.get_app_ids_for_query("sbermegamarket")
-    similar = scraper.get_similar_app_ids_for_app(results[0])
-
-    app_details = scraper.get_multiple_app_details(similar)
-    print(list(app_details))'''
-    tiktok = AppStore(country="us", app_name="tiktok")
+    '''tiktok = AppStore(country="us", app_name="tiktok")
     tiktok.review(how_many=15)
     reviews = []
     for review_data in tiktok.reviews:
@@ -71,7 +64,7 @@ def parser_apple(user_request):
     df = pd.DataFrame(np.array(reviews), columns=['review'])
     df2 = df.join(pd.DataFrame(df.pop('review').tolist()))
     df2.head()
-    df2.to_csv(f"{user_request}.csv", mode='a', index=False, header=False)
+    df2.to_csv(f"{user_request}.csv", mode='a', index=False, header=False)'''
     return 0
 
 
