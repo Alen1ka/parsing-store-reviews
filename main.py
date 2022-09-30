@@ -15,11 +15,14 @@ def parser_google_play(application_name):
                 count=20,  # defaults to 100
                 filter_score_with=5  # defaults to None(means all score)
             )
+            print(result)
             google_reviews = []
             for google_review in result:
-                google_reviews = create_a_dict_of_reviews(google_reviews, google_review['user_name'],
-                                                          google_review['content'], 'google', google_review['date'],
+                # print(f'google_review = {google_review}')
+                google_reviews = create_a_dict_of_reviews(google_reviews, google_review['userName'],
+                                                          google_review['content'], 'google', google_review['at'],
                                                           google_review['score'])
+                # print(f'google_reviews = {google_reviews}')
                 z = 0
             print(google_reviews)
             return google_reviews
@@ -28,7 +31,6 @@ def parser_google_play(application_name):
 
 
 def parser_apple(application_name):
-    application_name = edit_app_name(application_name)
     appstore_app = AppStore(country="ru", app_name=f"{application_name}")
     appstore_app.review(how_many=20)
     appstore_reviews = appstore_app.reviews
