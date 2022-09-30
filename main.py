@@ -1,45 +1,83 @@
 import pandas as pd
 from google_play_scraper import Sort, reviews
+from google_play_scraper import search
 from app_store_scraper import AppStore
+import json
+
+
+def search_google_play(application_name):
+    error1 = 1
+    code = ''
+    while error1 == 1:
+        try:
+            print(application_name)
+            result = search(
+                f"{application_name}",
+                lang=LANG,
+                country=COUNTRY,
+                n_hits=1
+            )
+            error1 = 0
+            print(result)
+            print(result['appId'])
+            code = result[0]['appId']
+            return code
+            '''for application in result:
+                title_application = application['title'].lower()
+                print(title_application)
+
+                if title_application.find('application_name') != -1:
+                    code = application['appId']
+                    return code'''
+            # 'com.fantome.penguinisle'
+        except Exception as e:
+            print(e)
 
 
 def parser_google_play(application_name):
-    z = 1
-    while z == 1:
+    application_name = application_name.lower()
+    error2 = 1
+    while error2 == 1:
         try:
+            code = search_google_play(application_name)
             result, continuation_token = reviews(
-                'com.fantome.penguinisle',
-                lang='en',  # defaults to 'en'
-                country='us',  # defaults to 'us'
+                code,
+                lang=LANG,
+                country=COUNTRY,
                 sort=Sort.NEWEST,  # defaults to Sort.NEWEST
-                count=20,  # defaults to 100
+                count=COUNT,  # defaults to 100
                 filter_score_with=5  # defaults to None(means all score)
             )
-            print(result)
+            error2 = 0
             google_reviews = []
             for google_review in result:
-                # print(f'google_review = {google_review}')
                 google_reviews = create_a_dict_of_reviews(google_reviews, google_review['userName'],
                                                           google_review['content'], 'google', google_review['at'],
                                                           google_review['score'])
-                # print(f'google_reviews = {google_reviews}')
-                z = 0
-            print(google_reviews)
             return google_reviews
         except Exception as e:
             print(e)
 
 
 def parser_apple(application_name):
-    appstore_app = AppStore(country="ru", app_name=f"{application_name}")
-    appstore_app.review(how_many=20)
-    appstore_reviews = appstore_app.reviews
-    apple_reviews = []
-    for review_data in appstore_reviews:
-        apple_reviews = create_a_dict_of_reviews(apple_reviews, review_data['userName'], review_data['review'], 'apple',
-                                                 review_data['date'], review_data['rating'])
+    application_name = edit_app_name(application_name)
+    z = 1
+    while z == 1:
+        try:
+            appstore_app = AppStore(country=COUNTRY, app_name=f"{application_name.replace(' ', '')}")
+            # appstore_app = AppStore(country="ru", app_name="yazio-fasting-food-tracker", app_id=946099227)
+            appstore_app.review(how_many=COUNT)
+            appstore_reviews = appstore_app.reviews
+            apple_reviews = []
+            for review_data in appstore_reviews:
+                apple_reviews = create_a_dict_of_reviews(apple_reviews, review_data['userName'], review_data['review'],
+                                                         'apple',
+                                                         review_data['date'], review_data['rating'])
 
-    return apple_reviews
+            z = 0
+            return apple_reviews
+        except AttributeError as e:
+            print(e)
 
 
 def create_a_dict_of_reviews(apple_reviews, user_name, review, source, date, rating):
@@ -55,7 +93,7 @@ def edit_app_name(application_name):
                 'о': 'o', 'п': 'p', 'р': 'r', 'с': 's', 'т': 't', 'у': 'u', 'ф': 'f', 'х': 'h',
                 'ц': 'c', 'ч': 'ch', 'ш': 'sh', 'щ': 'sch', 'ъ': '', 'ы': 'y', 'ь': '', 'э': 'e',
                 'ю': 'u', 'я': 'ya'}
-    return ''.join([alphabet.get(f"{letter}") for letter in application_name.replace(' ', '').lower()])
+    return ''.join([alphabet.get(f"{letter}") for letter in application_name.lower()])
 
 
 def writing_to_csv(reviews_app1, reviews_app2, application_name):
@@ -69,10 +107,14 @@ def writing_to_csv(reviews_app1, reviews_app2, application_name):
 
 
 if __name__ == '__main__':
-    # здесь config
-    # print("Введите название приложения и нажмите Enter: ")
-    # request = input()
-    app_name = edit_app_name('СберМегаМаркет')
-    reviews_app_store1 = parser_google_play(app_name)
-    reviews_app_store2 = parser_apple(app_name)
-    writing_to_csv(reviews_app_store1, reviews_app_store2, app_name)
+    with open('conf.json', 'r', encoding='utf-8') as f:
+        text = json.load(f)
+        
+    APP_NAME = text['app_name']
+    COUNT = text['count']
+    COUNTRY = text['country']
+    LANG = text['lang']
+
+    reviews_app_store1 = parser_google_play(APP_NAME)
+    # reviews_app_store2 = parser_apple(APP_NAME)
+    # writing_to_csv(reviews_app_store1, reviews_app_store2, APP_NAME)
