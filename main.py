@@ -9,7 +9,6 @@ def search_google_play(application_name):
     error1 = 1
     while error1 == 1:
         try:
-            print(application_name)
             result = search(
                 f"{application_name}",
                 lang=LANG,
@@ -17,8 +16,6 @@ def search_google_play(application_name):
                 n_hits=1
             )
             error1 = 0
-            print(result[0])
-            print(result[0]['appId'])
             code = result[0]['appId']
             return code
         except Exception as e:
@@ -106,5 +103,5 @@ if __name__ == '__main__':
     LANG = text['lang']
 
     reviews_app_store1 = parser_google_play(APP_NAME)
-    # reviews_app_store2 = parser_apple(APP_NAME)
-    # writing_to_csv(reviews_app_store1, reviews_app_store2, APP_NAME)
+    reviews_app_store2 = parser_apple(APP_NAME)
+    writing_to_csv(reviews_app_store1, reviews_app_store2, APP_NAME)
