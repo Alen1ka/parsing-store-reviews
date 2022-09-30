@@ -1,5 +1,4 @@
 import urllib.error
-
 import pandas as pd
 from google_play_scraper import Sort, reviews
 from google_play_scraper import search
@@ -106,6 +105,7 @@ def writing_to_csv(reviews_app1, reviews_app2, application_name):
 
 
 if __name__ == '__main__':
+    print("Подождите минут 5, может заработает)")
     with open('conf.json', 'r', encoding='utf-8') as f:
         text = json.load(f)
 
