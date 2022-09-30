@@ -1,9 +1,6 @@
-import urllib
-from pprint import pprint
 import pandas as pd
 from google_play_scraper import Sort, reviews
 from app_store_scraper import AppStore
-import urllib.error
 
 
 def parser_google_play(application_name):
@@ -15,42 +12,26 @@ def parser_google_play(application_name):
                 lang='en',  # defaults to 'en'
                 country='us',  # defaults to 'us'
                 sort=Sort.NEWEST,  # defaults to Sort.NEWEST
-                count=10,  # defaults to 100
+                count=20,  # defaults to 100
                 filter_score_with=5  # defaults to None(means all score)
             )
-            print(continuation_token)
-            print(result)
-
-            result, _ = reviews(
-                'com.fantome.penguinisle',
-                continuation_token=continuation_token  # defaults to None(load from the beginning)
-            )
-            print(result)
-            print(_)
             google_reviews = []
             for google_review in result:
-                google_reviews.append(
-                    {'user_name': google_review['user_name'], 'review': google_review['content'],
-                     'source': google_review['source'],
-                     'date': google_review['date'], 'rating': google_review['score']})
+                google_reviews = create_a_dict_of_reviews(google_reviews, google_review['user_name'],
+                                                          google_review['content'], 'google', google_review['date'],
+                                                          google_review['score'])
                 z = 0
+            print(google_reviews)
             return google_reviews
-        # except ConnectionError as e:
-        # except urllib.error.URLError as e:
         except Exception as e:
             print(e)
 
 
 def parser_apple(application_name):
-    # apple_reviews = [{'user_name': 'user_name', 'review': 'review', 'source': 'source', 'date': 'date', 'rating': '3'},
-    #                 {'user_name': 'user_name', 'review': 'review', 'source': 'source', 'date': 'date', 'rating': '4'}]
     application_name = edit_app_name(application_name)
-    # print(application_name)
-    # appstore_app = AppStore(country="ru", app_name="sbermegamarket", app_id=946099227)
     appstore_app = AppStore(country="ru", app_name=f"{application_name}")
     appstore_app.review(how_many=20)
     appstore_reviews = appstore_app.reviews
-    pprint(appstore_reviews)
     apple_reviews = []
     for review_data in appstore_reviews:
         apple_reviews = create_a_dict_of_reviews(apple_reviews, review_data['userName'], review_data['review'], 'apple',
