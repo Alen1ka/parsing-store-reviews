@@ -1,8 +1,14 @@
+import urllib.error
+
 import pandas as pd
 from google_play_scraper import Sort, reviews
 from google_play_scraper import search
 from app_store_scraper import AppStore
 import json
+from loguru import logger as log
+
+log.add('.\\log\\parser shop {time:DD-MM-YYYY}.log', format='{time:HH:mm:ss.SSSZ} | [{level}]\t| {message}',
+        level='ERROR')
 
 
 def search_google_play(application_name):
@@ -18,8 +24,10 @@ def search_google_play(application_name):
             error1 = 0
             code = result[0]['appId']
             return code
+        except urllib.error.URLError as e:
+            z = 1
         except Exception as e:
-            print(e)
+            log.error(e)
 
 
 def parser_google_play(application_name):
@@ -42,8 +50,10 @@ def parser_google_play(application_name):
                                                           google_review['content'], 'google', google_review['at'],
                                                           google_review['score'])
             return google_reviews
+        except urllib.error.URLError as e:
+            z = 1
         except Exception as e:
-            print(e)
+            log.error(e)
 
 
 def parser_apple(application_name):
@@ -64,7 +74,9 @@ def parser_apple(application_name):
             z = 0
             return apple_reviews
         except AttributeError as e:
-            print(e)
+            z = 1
+        except Exception as e:
+            log.error(e)
 
 
 def create_a_dict_of_reviews(apple_reviews, user_name, review, source, date, rating):
