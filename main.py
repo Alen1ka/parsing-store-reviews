@@ -7,7 +7,6 @@ import json
 
 def search_google_play(application_name):
     error1 = 1
-    code = ''
     while error1 == 1:
         try:
             print(application_name)
@@ -18,18 +17,10 @@ def search_google_play(application_name):
                 n_hits=1
             )
             error1 = 0
-            print(result)
-            print(result['appId'])
+            print(result[0])
+            print(result[0]['appId'])
             code = result[0]['appId']
             return code
-            '''for application in result:
-                title_application = application['title'].lower()
-                print(title_application)
-
-                if title_application.find('application_name') != -1:
-                    code = application['appId']
-                    return code'''
-            # 'com.fantome.penguinisle'
         except Exception as e:
             print(e)
 
@@ -44,9 +35,8 @@ def parser_google_play(application_name):
                 code,
                 lang=LANG,
                 country=COUNTRY,
-                sort=Sort.NEWEST,  # defaults to Sort.NEWEST
-                count=COUNT,  # defaults to 100
-                filter_score_with=5  # defaults to None(means all score)
+                sort=Sort.NEWEST,
+                count=COUNT
             )
             error2 = 0
             google_reviews = []
@@ -109,7 +99,7 @@ def writing_to_csv(reviews_app1, reviews_app2, application_name):
 if __name__ == '__main__':
     with open('conf.json', 'r', encoding='utf-8') as f:
         text = json.load(f)
-        
+
     APP_NAME = text['app_name']
     COUNT = text['count']
     COUNTRY = text['country']
